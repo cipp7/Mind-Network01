@@ -10,16 +10,19 @@ wpo-cache/
 # Uploads (never version)
 uploads/
 
-# MU plugins (usually env-specific)
+# MU plugins (env-specific)
 mu-plugins/
 
-# Ignore all plugins except custom ones
+# Ignore all plugins
 plugins/*
-!plugins/your-custom-plugin/
+# Allow ONLY custom plugins
+!plugins/doc-booker/
+#!plugins/ss-admin-dashboard/   # ← uncomment if this is also custom
 
-# Ignore all themes except custom ones
+# Ignore all themes
 themes/*
-!themes/your-custom-theme/
+# Allow ONLY custom theme
+!themes/divi-child-theme/
 
 # Node / build
 node_modules/
@@ -35,4 +38,3 @@ build/
 .idea/
 Thumbs.db
 .DS_Store
-

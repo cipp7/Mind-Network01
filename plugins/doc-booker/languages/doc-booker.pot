@@ -1,0 +1,3211 @@
+# Copyright (C) 2026 Wp Dreamers
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: DocBooker - Doctor Appointment & Hospital Management 1.7.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/doc-booker\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-01-18T14:55:39+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: doc-booker\n"
+
+#. Plugin Name of the plugin
+#: D:\wordpress local website\doc-booker\app\public\wp-content\plugins\doc-booker\doc-booker.php
+msgid "DocBooker - Doctor Appointment & Hospital Management"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: D:\wordpress local website\doc-booker\app\public\wp-content\plugins\doc-booker\doc-booker.php
+msgid "https://docbooker.wpdreamers.com/"
+msgstr ""
+
+#. Description of the plugin
+#: D:\wordpress local website\doc-booker\app\public\wp-content\plugins\doc-booker\doc-booker.php
+msgid "The Doctor Booking & Hospital Management System."
+msgstr ""
+
+#. Author of the plugin
+#: D:\wordpress local website\doc-booker\app\public\wp-content\plugins\doc-booker\doc-booker.php
+msgid "Wp Dreamers"
+msgstr ""
+
+#. Author URI of the plugin
+#: D:\wordpress local website\doc-booker\app\public\wp-content\plugins\doc-booker\doc-booker.php
+msgid "https://wpdreamers.com/"
+msgstr ""
+
+#: app/Controllers/Admin/Api/RestApi.php:229
+#: app/Controllers/Admin/Api/RestApi.php:259
+msgid "You are not allowed to access this endpoint."
+msgstr ""
+
+#: app/Controllers/Admin/PluginRow.php:38
+#: app/Controllers/Admin/SubMenu.php:20
+#: app/Controllers/Admin/SubMenu.php:21
+msgid "Settings"
+msgstr ""
+
+#: app/Controllers/Admin/PluginRow.php:39
+msgid "Demo"
+msgstr ""
+
+#: app/Controllers/Admin/PluginRow.php:40
+msgid "Documentation"
+msgstr ""
+
+#: app/Controllers/Admin/PluginRow.php:43
+#: assets/admin/js/wpd-settings-page.js:126149
+#: src/js/admin/components/settings-page/MainHeader.jsx:71
+#: assets/admin/js/wpd-settings-page.js:108014
+msgid "Get Pro"
+msgstr ""
+
+#: app/Controllers/Admin/PluginRow.php:66
+msgid "Facing issue?"
+msgstr ""
+
+#: app/Controllers/Admin/PluginRow.php:67
+msgid "Please open a support ticket."
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:51
+msgctxt "Taxonomy General Name"
+msgid "Doctor Department"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:52
+msgctxt "Taxonomy Singular Name"
+msgid "Department"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:53
+#: assets/public/js/wpd-global-doc-booking.js:39209
+#: src/js/public/components/DepartmentsSelection.jsx:9
+#: assets/public/js/wpd-global-doc-booking.js:37800
+msgid "Departments"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:54
+msgid "All Departments"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:55
+msgid "Parent Department"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:56
+msgid "Parent Department:"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:57
+msgid "New Department Name"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:58
+msgid "Add New Department"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:59
+msgid "Edit Department"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:60
+msgid "Update Department"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:61
+msgid "View Department"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:62
+msgid "Separate Departments with commas"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:63
+msgid "Add or remove Departments"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:64
+msgid "Choose from the most used"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:66
+msgid "Search Departments"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:67
+#: assets/admin/js/wpd-booking-management.js:119319
+#: assets/admin/js/wpd-booking-management.js:119404
+#: src/js/admin/components/BookingManagement.jsx:154
+#: src/js/admin/components/BookingManagement.jsx:202
+#: assets/admin/js/wpd-booking-management.js:102339
+#: assets/admin/js/wpd-booking-management.js:102387
+msgid "Not Found"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:123
+msgctxt "post type general name"
+msgid "DocBooker"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:124
+msgctxt "post type singular name"
+msgid "DocBooker"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:125
+msgctxt "post"
+msgid "Add New"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:126
+msgid "Add New Doctor"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:127
+msgid "Edit Doctor"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:128
+msgid "New Doctor"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:129
+msgid "All Doctors"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:130
+msgid "View Doctor"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:131
+msgid "Search Doctor"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:132
+msgid "No Doctors found"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:133
+msgid "No Doctor found in the Trash"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:134
+#: assets/public/js/wpd-global-doc-booking.js:39743
+#: src/js/public/components/ProgressBar.jsx:7
+#: assets/public/js/wpd-global-doc-booking.js:38149
+msgid "Doctor"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:135
+msgid "Update Doctor"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:137
+msgid "DocBooker"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:169
+#: app/Controllers/Installation.php:63
+msgid "Clinic"
+msgstr ""
+
+#. Translators: %s is the post type name (e.g., "Clinic").
+#: app/Controllers/Admin/RegisterPostType.php:174
+msgctxt "post type general name"
+msgid "%s"
+msgstr ""
+
+#. Translators: %s is the post type name (e.g., "Clinic").
+#: app/Controllers/Admin/RegisterPostType.php:176
+msgctxt "post type singular name"
+msgid "%s"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:179
+msgid "s"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:180
+msgid "Add New "
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:181
+msgid "Add New"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:182
+msgid "New "
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:183
+msgid "Edit "
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:184
+msgid "Update "
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:185
+msgid "View "
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:186
+msgid "Search "
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:187
+#: app/Controllers/Admin/RegisterPostType.php:188
+msgid "No "
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:187
+msgid "s found"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:188
+msgid "s found in Trash"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:193
+msgid "Description"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:216
+#: app/Controllers/Admin/RegisterPostType.php:217
+#: app/Controllers/Admin/RegisterPostType.php:228
+msgid "Doctor Shortcode"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:218
+#: app/Controllers/Admin/RegisterPostType.php:250
+#: app/Controllers/Admin/Shortcode/ShortcodeInit.php:27
+#: app/Controllers/Admin/Shortcode/ShortcodeInit.php:32
+msgid "Shortcode"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:219
+#: app/Controllers/Admin/RegisterPostType.php:251
+msgid "Edit Shortcode"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:220
+#: app/Controllers/Admin/RegisterPostType.php:252
+msgid "New Shortcode"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:221
+#: app/Controllers/Admin/RegisterPostType.php:253
+msgid "Add New Shortcode"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:222
+#: app/Controllers/Admin/RegisterPostType.php:254
+msgid "View Shortcode"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:223
+#: app/Controllers/Admin/RegisterPostType.php:255
+msgid "Shortcode Locations"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:224
+#: app/Controllers/Admin/RegisterPostType.php:256
+msgid "No Shortcode found."
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:225
+#: app/Controllers/Admin/RegisterPostType.php:257
+msgid "No Shortcode found in trash."
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:229
+msgid "Doctor Shortcode Generator"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:248
+#: app/Controllers/Admin/RegisterPostType.php:249
+#: app/Controllers/Admin/RegisterPostType.php:260
+msgid "Clinic Shortcode"
+msgstr ""
+
+#: app/Controllers/Admin/RegisterPostType.php:261
+msgid "Clinic Shortcode Generator"
+msgstr ""
+
+#: app/Controllers/Admin/SubMenu.php:30
+#: app/Controllers/Admin/SubMenu.php:31
+msgid "Booking Management"
+msgstr ""
+
+#: app/Controllers/AjaxControllers.php:41
+msgid "Settings Save Successfully."
+msgstr ""
+
+#: app/Controllers/AjaxControllers.php:169
+msgid "Booking cancel successfully."
+msgstr ""
+
+#: app/Controllers/AjaxControllers.php:171
+msgid "Failed to booking cancel with doctor time meta."
+msgstr ""
+
+#: app/Controllers/AjaxControllers.php:174
+msgid "Failed to booking cancel."
+msgstr ""
+
+#: app/Controllers/AjaxControllers.php:191
+msgid "Booking delete successfully."
+msgstr ""
+
+#: app/Controllers/AjaxControllers.php:193
+msgid "Failed to delete booking."
+msgstr ""
+
+#: app/Controllers/Frontend/DocShortcode.php:92
+msgid "No posts found."
+msgstr ""
+
+#: app/Controllers/Frontend/DocShortcode.php:107
+msgid "Book Your Appointment"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:305
+msgid "More Doctors"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:327
+msgid "More Clinics"
+msgstr ""
+
+#. translators: %s: search query
+#: app/Controllers/Helper/Helper.php:484
+#: app/Traits/TemplateTraits.php:17
+msgid "Search results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: %s: page number
+#: app/Controllers/Helper/Helper.php:488
+#: app/Traits/TemplateTraits.php:21
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:536
+msgid "Doctors"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:540
+msgid "Clinics"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:747
+msgid "Your appointment booking confirmation"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:748
+msgid ""
+"Dear %s,\n"
+"\n"
+"Thank you for booking an appointment with Dr. %s.\n"
+"\n"
+"Appointment Details:\n"
+"Booking ID: %s\n"
+"Day: %s\n"
+"Time: %s\n"
+"Clinic: %s\n"
+"\n"
+"If you need to cancel or reschedule, please contact us at least 24 hours before your appointment.\n"
+"\n"
+"Best regards,\n"
+"%s"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:749
+msgid "New appointment booking"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:750
+msgid ""
+"Dear Dr. %s,\n"
+"\n"
+"A new appointment has been booked with you.\n"
+"\n"
+"Appointment Details:\n"
+"Patient: %s\n"
+"Phone: %s\n"
+"%sDay: %s\n"
+"Time: %s\n"
+"Clinic: %s\n"
+"%s"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:751
+msgid "New doctor appointment booking"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:752
+msgid ""
+"A new appointment has been booked.\n"
+"\n"
+"Booking ID: %s\n"
+"\n"
+"Doctor: %s\n"
+"Patient: %s\n"
+"Phone: %s\n"
+"%sDay: %s\n"
+"Time: %s\n"
+"Clinic: %s\n"
+"%s"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:755
+msgid "Your appointment booking has been canceled"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:756
+msgid ""
+"Dear %s,\n"
+"\n"
+"Sorry, your appointment booking with Dr. %s has been canceled.\n"
+"\n"
+"%s"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:757
+msgid "Canceling booking"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:758
+msgid ""
+"Dear Dr. %s,\n"
+"\n"
+"An appointment has been canceled with you.\n"
+"\n"
+"Appointment Details:\n"
+"Patient: %s\n"
+"Phone: %s\n"
+"%sDay: %s\n"
+"Time: %s\n"
+"Clinic: %s\n"
+"%s"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:759
+msgid "A doctor appointment booking cancel"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:760
+msgid ""
+"An appointment has been canceled.\n"
+"\n"
+"Booking ID: %s\n"
+"\n"
+"Doctor: %s\n"
+"Patient: %s\n"
+"Phone: %s\n"
+"%sDay: %s\n"
+"Time: %s\n"
+"Clinic: %s\n"
+"%s"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:828
+#: assets/admin/js/wpd-doc-booker-admin.js:153816
+#: src/js/admin/components/DoctorSchedule.jsx:8
+#: assets/admin/js/wpd-doc-booker-admin.js:132860
+msgid "Monday"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:829
+#: assets/admin/js/wpd-doc-booker-admin.js:153816
+#: src/js/admin/components/DoctorSchedule.jsx:9
+#: assets/admin/js/wpd-doc-booker-admin.js:132861
+msgid "Tuesday"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:830
+#: assets/admin/js/wpd-doc-booker-admin.js:153816
+#: src/js/admin/components/DoctorSchedule.jsx:10
+#: assets/admin/js/wpd-doc-booker-admin.js:132862
+msgid "Wednesday"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:831
+#: assets/admin/js/wpd-doc-booker-admin.js:153816
+#: src/js/admin/components/DoctorSchedule.jsx:11
+#: assets/admin/js/wpd-doc-booker-admin.js:132863
+msgid "Thursday"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:832
+#: assets/admin/js/wpd-doc-booker-admin.js:153816
+#: src/js/admin/components/DoctorSchedule.jsx:12
+#: assets/admin/js/wpd-doc-booker-admin.js:132864
+msgid "Friday"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:833
+#: assets/admin/js/wpd-doc-booker-admin.js:153816
+#: src/js/admin/components/DoctorSchedule.jsx:13
+#: assets/admin/js/wpd-doc-booker-admin.js:132865
+msgid "Saturday"
+msgstr ""
+
+#: app/Controllers/Helper/Helper.php:834
+#: assets/admin/js/wpd-doc-booker-admin.js:153816
+#: src/js/admin/components/DoctorSchedule.jsx:14
+#: assets/admin/js/wpd-doc-booker-admin.js:132866
+msgid "Sunday"
+msgstr ""
+
+#: app/Controllers/Hooks/ActionHooks.php:49
+msgid "No schedule available"
+msgstr ""
+
+#: app/Controllers/Hooks/ActionHooks.php:91
+msgid "Doctor Schedule"
+msgstr ""
+
+#: app/Controllers/Hooks/ActionHooks.php:129
+msgid "Call For Booking:"
+msgstr ""
+
+#: app/Controllers/Hooks/ActionHooks.php:147
+msgid "Clinic Holiday Schedule"
+msgstr ""
+
+#: app/Controllers/Hooks/ActionHooks.php:154
+msgid "is on Holiday from"
+msgstr ""
+
+#: app/Controllers/Hooks/ActionHooks.php:156
+msgid "to"
+msgstr ""
+
+#: app/Controllers/Hooks/ActionHooks.php:204
+msgid "Our Hotline:"
+msgstr ""
+
+#: app/Controllers/Hooks/ActionHooks.php:211
+msgid "Our Email:"
+msgstr ""
+
+#: app/Controllers/Hooks/ActionHooks.php:240
+msgid "Our Address:"
+msgstr ""
+
+#: app/Controllers/Hooks/FilterHooks.php:55
+msgid "Page"
+msgstr ""
+
+#: app/Controllers/Hooks/TemplateHooks.php:137
+#: app/Controllers/Model/Clinic.php:56
+msgid "Hotline:"
+msgstr ""
+
+#: app/Traits/SingletonTrait.php:27
+#: app/Traits/SingletonTrait.php:33
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: app/Widgets/DoctorFilterWidget.php:16
+msgid "DocBooker: Doctor Filter"
+msgstr ""
+
+#: app/Widgets/DoctorFilterWidget.php:18
+msgid "DocBooker Doctor Filter widget."
+msgstr ""
+
+#: app/Widgets/DoctorFilterWidget.php:36
+#: app/Widgets/DoctorFilterWidget.php:38
+msgid "Select Doctor Department"
+msgstr ""
+
+#: app/Widgets/DoctorFilterWidget.php:59
+#: app/Widgets/DoctorFilterWidget.php:61
+#: assets/admin/js/wpd-doc-booker-admin.js:153291
+#: src/js/admin/components/DoctorClinicInfo.jsx:111
+#: assets/admin/js/wpd-doc-booker-admin.js:132519
+msgid "Select Clinic"
+msgstr ""
+
+#: app/Widgets/DoctorFilterWidget.php:96
+#: app/Widgets/DoctorFilterWidget.php:98
+#: assets/public/js/wpd-global-doc-booking.js:39294
+#: src/js/public/components/DoctorSelection.jsx:7
+#: assets/public/js/wpd-global-doc-booking.js:37838
+msgid "Select Doctor"
+msgstr ""
+
+#: app/Widgets/DoctorFilterWidget.php:136
+msgid "Filter"
+msgstr ""
+
+#: app/Widgets/DoctorFilterWidget.php:163
+msgid "Title"
+msgstr ""
+
+#: app/Widgets/DoctorFilterWidget.php:167
+msgid "Widget Style"
+msgstr ""
+
+#: app/Widgets/Widgets.php:25
+msgid "DocBooker - Doctor Single Sidebar"
+msgstr ""
+
+#: app/Widgets/Widgets.php:27
+msgid "Add widgets on doctor single page"
+msgstr ""
+
+#: app/Widgets/Widgets.php:36
+msgid "DocBooker - Doctor Archive Sidebar"
+msgstr ""
+
+#: app/Widgets/Widgets.php:38
+msgid "Add widgets on doctor archive page"
+msgstr ""
+
+#: app/Widgets/Widgets.php:47
+msgid "DocBooker - Clinic Single Sidebar"
+msgstr ""
+
+#: app/Widgets/Widgets.php:49
+msgid "Add widgets on clinic single page"
+msgstr ""
+
+#: app/Widgets/Widgets.php:58
+msgid "DocBooker - Clinic Archive Sidebar"
+msgstr ""
+
+#: app/Widgets/Widgets.php:60
+msgid "Add widgets on clinic archive page"
+msgstr ""
+
+#: templates/archive_wpddb_doctor.php:67
+msgid "No doctors were found."
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119203
+#: src/js/admin/components/BookingManagement.jsx:72
+#: assets/admin/js/wpd-booking-management.js:102257
+msgid "An error occurred while canceling the booking."
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119250
+#: src/js/admin/components/BookingManagement.jsx:105
+#: assets/admin/js/wpd-booking-management.js:102290
+msgid "An error occurred while deleting booking."
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119320
+#: assets/admin/js/wpd-booking-management.js:119405
+#: src/js/admin/components/BookingManagement.jsx:155
+#: src/js/admin/components/BookingManagement.jsx:203
+#: assets/admin/js/wpd-booking-management.js:102340
+#: assets/admin/js/wpd-booking-management.js:102388
+msgid "No booking found."
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119333
+#: assets/admin/js/wpd-booking-management.js:119348
+#: assets/admin/js/wpd-booking-management.js:119418
+#: assets/admin/js/wpd-booking-management.js:119433
+#: assets/admin/js/wpd-doc-booker-admin.js:153201
+#: assets/admin/js/wpd-settings-page.js:126698
+#: assets/admin/js/wpd-settings-page.js:126704
+#: assets/admin/js/wpd-settings-page.js:126750
+#: src/js/admin/components/BookingManagement.jsx:162
+#: src/js/admin/components/BookingManagement.jsx:171
+#: src/js/admin/components/BookingManagement.jsx:210
+#: src/js/admin/components/BookingManagement.jsx:219
+#: src/js/admin/components/DoctorClinicInfo.jsx:44
+#: src/js/admin/components/settings-page/SettingsPageApp.jsx:63
+#: src/js/admin/components/settings-page/SettingsPageApp.jsx:69
+#: src/js/admin/components/settings-page/SettingsPageApp.jsx:106
+#: assets/admin/js/wpd-booking-management.js:102347
+#: assets/admin/js/wpd-booking-management.js:102356
+#: assets/admin/js/wpd-booking-management.js:102395
+#: assets/admin/js/wpd-booking-management.js:102404
+#: assets/admin/js/wpd-doc-booker-admin.js:132452
+#: assets/admin/js/wpd-settings-page.js:108368
+#: assets/admin/js/wpd-settings-page.js:108374
+#: assets/admin/js/wpd-settings-page.js:108411
+msgid "Error"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119334
+#: assets/admin/js/wpd-booking-management.js:119419
+#: assets/admin/js/wpd-settings-page.js:126699
+#: src/js/admin/components/BookingManagement.jsx:163
+#: src/js/admin/components/BookingManagement.jsx:211
+#: src/js/admin/components/settings-page/SettingsPageApp.jsx:64
+#: assets/admin/js/wpd-booking-management.js:102348
+#: assets/admin/js/wpd-booking-management.js:102396
+#: assets/admin/js/wpd-settings-page.js:108369
+msgid "Resource not found (404)."
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119340
+#: assets/admin/js/wpd-booking-management.js:119425
+#: src/js/admin/components/BookingManagement.jsx:167
+#: src/js/admin/components/BookingManagement.jsx:215
+#: assets/admin/js/wpd-booking-management.js:102352
+#: assets/admin/js/wpd-booking-management.js:102400
+msgid "Network response was not ok."
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119349
+#: assets/admin/js/wpd-booking-management.js:119434
+#: src/js/admin/components/BookingManagement.jsx:172
+#: src/js/admin/components/BookingManagement.jsx:220
+#: assets/admin/js/wpd-booking-management.js:102357
+#: assets/admin/js/wpd-booking-management.js:102405
+msgid "An error occurred while fetching booking data."
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119498
+#: src/js/admin/components/BookingManagement.jsx:275
+#: assets/admin/js/wpd-booking-management.js:102460
+msgid "Type 4 character booking id or patient phone for booking search"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119499
+#: src/js/admin/components/BookingManagement.jsx:276
+#: assets/admin/js/wpd-booking-management.js:102461
+msgid "Reset Search"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119512
+#: assets/admin/js/wpd-booking-management.js:119518
+#: src/js/admin/components/BookingManagement.jsx:290
+#: src/js/admin/components/BookingManagement.jsx:298
+#: assets/admin/js/wpd-booking-management.js:102475
+#: assets/admin/js/wpd-booking-management.js:102483
+msgid "Booking Order"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119523
+#: assets/admin/js/wpd-booking-management.js:119945
+#: assets/admin/js/wpd-doc-booker-admin.js:156740
+#: assets/admin/js/wpd-settings-page.js:128999
+#: src/js/admin/components/BookingManagement.jsx:302
+#: src/js/admin/utils/data.js:166
+#: assets/admin/js/wpd-booking-management.js:102487
+#: assets/admin/js/wpd-booking-management.js:102672
+#: assets/admin/js/wpd-doc-booker-admin.js:134881
+#: assets/admin/js/wpd-settings-page.js:109966
+msgid "Ascending"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119526
+#: assets/admin/js/wpd-booking-management.js:119948
+#: assets/admin/js/wpd-doc-booker-admin.js:156743
+#: assets/admin/js/wpd-settings-page.js:129002
+#: src/js/admin/components/BookingManagement.jsx:303
+#: src/js/admin/utils/data.js:170
+#: assets/admin/js/wpd-booking-management.js:102488
+#: assets/admin/js/wpd-booking-management.js:102676
+#: assets/admin/js/wpd-doc-booker-admin.js:134885
+#: assets/admin/js/wpd-settings-page.js:109970
+msgid "Descending"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119597
+#: src/js/admin/components/ExpandedRowRender.jsx:18
+#: assets/admin/js/wpd-booking-management.js:102305
+msgid "Phone:"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119606
+#: src/js/admin/components/ExpandedRowRender.jsx:23
+#: assets/admin/js/wpd-booking-management.js:102310
+msgid "Email:"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119624
+#: src/js/admin/components/ExpandedRowRender.jsx:34
+msgid "Payment Status:"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119633
+#: src/js/admin/components/ExpandedRowRender.jsx:39
+msgid "Transaction ID:"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119642
+#: src/js/admin/components/ExpandedRowRender.jsx:44
+msgid "Amount Paid:"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119651
+#: src/js/admin/components/ExpandedRowRender.jsx:49
+msgid "Gateway:"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119867
+#: assets/admin/js/wpd-doc-booker-admin.js:156662
+#: assets/admin/js/wpd-settings-page.js:128921
+#: src/js/admin/utils/data.js:58
+#: assets/admin/js/wpd-booking-management.js:102568
+#: assets/admin/js/wpd-doc-booker-admin.js:134777
+#: assets/admin/js/wpd-settings-page.js:109862
+msgid "Left ($99.99)"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119870
+#: assets/admin/js/wpd-doc-booker-admin.js:156665
+#: assets/admin/js/wpd-settings-page.js:128924
+#: src/js/admin/utils/data.js:62
+#: assets/admin/js/wpd-booking-management.js:102572
+#: assets/admin/js/wpd-doc-booker-admin.js:134781
+#: assets/admin/js/wpd-settings-page.js:109866
+msgid "Right (99.99$)"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119873
+#: assets/admin/js/wpd-doc-booker-admin.js:156668
+#: assets/admin/js/wpd-settings-page.js:128927
+#: src/js/admin/utils/data.js:66
+#: assets/admin/js/wpd-booking-management.js:102576
+#: assets/admin/js/wpd-doc-booker-admin.js:134785
+#: assets/admin/js/wpd-settings-page.js:109870
+msgid "Left with space ($ 99.99)"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119876
+#: assets/admin/js/wpd-doc-booker-admin.js:156671
+#: assets/admin/js/wpd-settings-page.js:128930
+#: src/js/admin/utils/data.js:70
+#: assets/admin/js/wpd-booking-management.js:102580
+#: assets/admin/js/wpd-doc-booker-admin.js:134789
+#: assets/admin/js/wpd-settings-page.js:109874
+msgid "Right with space (99.99 $)"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119880
+#: assets/admin/js/wpd-doc-booker-admin.js:156675
+#: assets/admin/js/wpd-settings-page.js:128934
+#: src/js/admin/utils/data.js:76
+#: assets/admin/js/wpd-booking-management.js:102586
+#: assets/admin/js/wpd-doc-booker-admin.js:134795
+#: assets/admin/js/wpd-settings-page.js:109880
+msgid "Stripe"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119883
+#: assets/admin/js/wpd-doc-booker-admin.js:156678
+#: assets/admin/js/wpd-settings-page.js:128937
+#: src/js/admin/utils/data.js:80
+msgid "Razorpay"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119913
+#: assets/admin/js/wpd-doc-booker-admin.js:156708
+#: assets/admin/js/wpd-settings-page.js:128967
+#: src/js/admin/utils/data.js:122
+#: assets/admin/js/wpd-booking-management.js:102628
+#: assets/admin/js/wpd-doc-booker-admin.js:134837
+#: assets/admin/js/wpd-settings-page.js:109922
+msgid "Full Width"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119916
+#: assets/admin/js/wpd-doc-booker-admin.js:156711
+#: assets/admin/js/wpd-settings-page.js:128970
+#: src/js/admin/utils/data.js:126
+#: assets/admin/js/wpd-booking-management.js:102632
+#: assets/admin/js/wpd-doc-booker-admin.js:134841
+#: assets/admin/js/wpd-settings-page.js:109926
+msgid "Left Sidebar"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119919
+#: assets/admin/js/wpd-doc-booker-admin.js:156714
+#: assets/admin/js/wpd-settings-page.js:128973
+#: src/js/admin/utils/data.js:130
+#: assets/admin/js/wpd-booking-management.js:102636
+#: assets/admin/js/wpd-doc-booker-admin.js:134845
+#: assets/admin/js/wpd-settings-page.js:109930
+msgid "Right Sidebar"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119923
+#: assets/admin/js/wpd-doc-booker-admin.js:156718
+#: assets/admin/js/wpd-settings-page.js:128977
+#: src/js/admin/utils/data.js:136
+#: assets/admin/js/wpd-booking-management.js:102642
+#: assets/admin/js/wpd-doc-booker-admin.js:134851
+#: assets/admin/js/wpd-settings-page.js:109936
+msgid "No Order"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119926
+#: assets/admin/js/wpd-doc-booker-admin.js:156721
+#: assets/admin/js/wpd-settings-page.js:128980
+#: src/js/admin/utils/data.js:140
+#: assets/admin/js/wpd-booking-management.js:102646
+#: assets/admin/js/wpd-doc-booker-admin.js:134855
+#: assets/admin/js/wpd-settings-page.js:109940
+msgid "Order by Title"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119929
+#: assets/admin/js/wpd-doc-booker-admin.js:156724
+#: assets/admin/js/wpd-settings-page.js:128983
+#: src/js/admin/utils/data.js:144
+#: assets/admin/js/wpd-booking-management.js:102650
+#: assets/admin/js/wpd-doc-booker-admin.js:134859
+#: assets/admin/js/wpd-settings-page.js:109944
+msgid "Order by Post Id"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119932
+#: assets/admin/js/wpd-doc-booker-admin.js:156727
+#: assets/admin/js/wpd-settings-page.js:128986
+#: src/js/admin/utils/data.js:148
+#: assets/admin/js/wpd-booking-management.js:102654
+#: assets/admin/js/wpd-doc-booker-admin.js:134863
+#: assets/admin/js/wpd-settings-page.js:109948
+msgid "Order by Post Name"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119935
+#: assets/admin/js/wpd-doc-booker-admin.js:156730
+#: assets/admin/js/wpd-settings-page.js:128989
+#: src/js/admin/utils/data.js:152
+#: assets/admin/js/wpd-booking-management.js:102658
+#: assets/admin/js/wpd-doc-booker-admin.js:134867
+#: assets/admin/js/wpd-settings-page.js:109952
+msgid "Order by Date"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119938
+#: assets/admin/js/wpd-doc-booker-admin.js:156733
+#: assets/admin/js/wpd-settings-page.js:128992
+#: src/js/admin/utils/data.js:156
+#: assets/admin/js/wpd-booking-management.js:102662
+#: assets/admin/js/wpd-doc-booker-admin.js:134871
+#: assets/admin/js/wpd-settings-page.js:109956
+msgid "Random Order"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119941
+#: assets/admin/js/wpd-doc-booker-admin.js:156736
+#: assets/admin/js/wpd-settings-page.js:128995
+#: src/js/admin/utils/data.js:160
+#: assets/admin/js/wpd-booking-management.js:102666
+#: assets/admin/js/wpd-doc-booker-admin.js:134875
+#: assets/admin/js/wpd-settings-page.js:109960
+msgid "Order by Page Order"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119952
+#: assets/admin/js/wpd-doc-booker-admin.js:156747
+#: assets/admin/js/wpd-settings-page.js:129006
+#: src/js/admin/utils/data.js:176
+#: assets/admin/js/wpd-booking-management.js:102682
+#: assets/admin/js/wpd-doc-booker-admin.js:134891
+#: assets/admin/js/wpd-settings-page.js:109976
+msgid "None"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119955
+#: assets/admin/js/wpd-doc-booker-admin.js:156750
+#: assets/admin/js/wpd-settings-page.js:129009
+#: src/js/admin/utils/data.js:180
+#: assets/admin/js/wpd-booking-management.js:102686
+#: assets/admin/js/wpd-doc-booker-admin.js:134895
+#: assets/admin/js/wpd-settings-page.js:109980
+msgid "Ajax Number Pagination"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119958
+#: assets/admin/js/wpd-doc-booker-admin.js:156753
+#: assets/admin/js/wpd-settings-page.js:129012
+#: src/js/admin/utils/data.js:184
+#: assets/admin/js/wpd-booking-management.js:102690
+#: assets/admin/js/wpd-doc-booker-admin.js:134899
+#: assets/admin/js/wpd-settings-page.js:109984
+msgid "Load More Button"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119961
+#: assets/admin/js/wpd-doc-booker-admin.js:156756
+#: assets/admin/js/wpd-settings-page.js:129015
+#: src/js/admin/utils/data.js:188
+#: assets/admin/js/wpd-booking-management.js:102694
+#: assets/admin/js/wpd-doc-booker-admin.js:134903
+#: assets/admin/js/wpd-settings-page.js:109988
+msgid "Load More Scroll"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119965
+#: assets/admin/js/wpd-doc-booker-admin.js:156760
+#: assets/admin/js/wpd-settings-page.js:129019
+#: src/js/admin/utils/data.js:194
+#: assets/admin/js/wpd-booking-management.js:102700
+#: assets/admin/js/wpd-doc-booker-admin.js:134909
+#: assets/admin/js/wpd-settings-page.js:109994
+msgid "1 line"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119968
+#: assets/admin/js/wpd-doc-booker-admin.js:156763
+#: assets/admin/js/wpd-settings-page.js:129022
+#: src/js/admin/utils/data.js:198
+#: assets/admin/js/wpd-booking-management.js:102704
+#: assets/admin/js/wpd-doc-booker-admin.js:134913
+#: assets/admin/js/wpd-settings-page.js:109998
+msgid "2 lines"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119971
+#: assets/admin/js/wpd-doc-booker-admin.js:156766
+#: assets/admin/js/wpd-settings-page.js:129025
+#: src/js/admin/utils/data.js:202
+#: assets/admin/js/wpd-booking-management.js:102708
+#: assets/admin/js/wpd-doc-booker-admin.js:134917
+#: assets/admin/js/wpd-settings-page.js:110002
+msgid "3 lines"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119974
+#: assets/admin/js/wpd-doc-booker-admin.js:156769
+#: assets/admin/js/wpd-settings-page.js:129028
+#: src/js/admin/utils/data.js:206
+#: assets/admin/js/wpd-booking-management.js:102712
+#: assets/admin/js/wpd-doc-booker-admin.js:134921
+#: assets/admin/js/wpd-settings-page.js:110006
+msgid "4 lines"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119977
+#: assets/admin/js/wpd-doc-booker-admin.js:156772
+#: assets/admin/js/wpd-settings-page.js:129031
+#: src/js/admin/utils/data.js:210
+#: assets/admin/js/wpd-booking-management.js:102716
+#: assets/admin/js/wpd-doc-booker-admin.js:134925
+#: assets/admin/js/wpd-settings-page.js:110010
+msgid "5 lines"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119981
+#: assets/admin/js/wpd-doc-booker-admin.js:156776
+#: assets/admin/js/wpd-settings-page.js:129035
+#: src/js/admin/utils/data.js:216
+#: assets/admin/js/wpd-booking-management.js:102722
+#: assets/admin/js/wpd-doc-booker-admin.js:134931
+#: assets/admin/js/wpd-settings-page.js:110016
+msgid "100"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119984
+#: assets/admin/js/wpd-doc-booker-admin.js:156779
+#: assets/admin/js/wpd-settings-page.js:129038
+#: src/js/admin/utils/data.js:220
+#: assets/admin/js/wpd-booking-management.js:102726
+#: assets/admin/js/wpd-doc-booker-admin.js:134935
+#: assets/admin/js/wpd-settings-page.js:110020
+msgid "200"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119987
+#: assets/admin/js/wpd-doc-booker-admin.js:156782
+#: assets/admin/js/wpd-settings-page.js:129041
+#: src/js/admin/utils/data.js:224
+#: assets/admin/js/wpd-booking-management.js:102730
+#: assets/admin/js/wpd-doc-booker-admin.js:134939
+#: assets/admin/js/wpd-settings-page.js:110024
+msgid "300"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119990
+#: assets/admin/js/wpd-doc-booker-admin.js:156785
+#: assets/admin/js/wpd-settings-page.js:129044
+#: src/js/admin/utils/data.js:228
+#: assets/admin/js/wpd-booking-management.js:102734
+#: assets/admin/js/wpd-doc-booker-admin.js:134943
+#: assets/admin/js/wpd-settings-page.js:110028
+msgid "400"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119993
+#: assets/admin/js/wpd-doc-booker-admin.js:156788
+#: assets/admin/js/wpd-settings-page.js:129047
+#: src/js/admin/utils/data.js:232
+#: assets/admin/js/wpd-booking-management.js:102738
+#: assets/admin/js/wpd-doc-booker-admin.js:134947
+#: assets/admin/js/wpd-settings-page.js:110032
+msgid "500"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119996
+#: assets/admin/js/wpd-doc-booker-admin.js:156791
+#: assets/admin/js/wpd-settings-page.js:129050
+#: src/js/admin/utils/data.js:236
+#: assets/admin/js/wpd-booking-management.js:102742
+#: assets/admin/js/wpd-doc-booker-admin.js:134951
+#: assets/admin/js/wpd-settings-page.js:110036
+msgid "600"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:119999
+#: assets/admin/js/wpd-doc-booker-admin.js:156794
+#: assets/admin/js/wpd-settings-page.js:129053
+#: src/js/admin/utils/data.js:240
+#: assets/admin/js/wpd-booking-management.js:102746
+#: assets/admin/js/wpd-doc-booker-admin.js:134955
+#: assets/admin/js/wpd-settings-page.js:110040
+msgid "700"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120002
+#: assets/admin/js/wpd-doc-booker-admin.js:156797
+#: assets/admin/js/wpd-settings-page.js:129056
+#: src/js/admin/utils/data.js:244
+#: assets/admin/js/wpd-booking-management.js:102750
+#: assets/admin/js/wpd-doc-booker-admin.js:134959
+#: assets/admin/js/wpd-settings-page.js:110044
+msgid "800"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120005
+#: assets/admin/js/wpd-doc-booker-admin.js:156800
+#: assets/admin/js/wpd-settings-page.js:129059
+#: src/js/admin/utils/data.js:248
+#: assets/admin/js/wpd-booking-management.js:102754
+#: assets/admin/js/wpd-doc-booker-admin.js:134963
+#: assets/admin/js/wpd-settings-page.js:110048
+msgid "900"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120009
+#: assets/admin/js/wpd-doc-booker-admin.js:156804
+#: assets/admin/js/wpd-settings-page.js:129063
+#: src/js/admin/utils/data.js:254
+#: assets/admin/js/wpd-booking-management.js:102760
+#: assets/admin/js/wpd-doc-booker-admin.js:134969
+#: assets/admin/js/wpd-settings-page.js:110054
+msgid "Default"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120012
+#: assets/admin/js/wpd-doc-booker-admin.js:156807
+#: assets/admin/js/wpd-settings-page.js:129066
+#: src/js/admin/utils/data.js:258
+#: assets/admin/js/wpd-booking-management.js:102764
+#: assets/admin/js/wpd-doc-booker-admin.js:134973
+#: assets/admin/js/wpd-settings-page.js:110058
+msgid "Left"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120015
+#: assets/admin/js/wpd-doc-booker-admin.js:156810
+#: assets/admin/js/wpd-settings-page.js:129069
+#: src/js/admin/utils/data.js:262
+#: assets/admin/js/wpd-booking-management.js:102768
+#: assets/admin/js/wpd-doc-booker-admin.js:134977
+#: assets/admin/js/wpd-settings-page.js:110062
+msgid "Center"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120018
+#: assets/admin/js/wpd-doc-booker-admin.js:156813
+#: assets/admin/js/wpd-settings-page.js:129072
+#: src/js/admin/utils/data.js:266
+#: assets/admin/js/wpd-booking-management.js:102772
+#: assets/admin/js/wpd-doc-booker-admin.js:134981
+#: assets/admin/js/wpd-settings-page.js:110066
+msgid "Right"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120022
+#: assets/admin/js/wpd-doc-booker-admin.js:156817
+#: assets/admin/js/wpd-settings-page.js:129076
+#: src/js/admin/utils/data.js:272
+#: assets/admin/js/wpd-booking-management.js:102778
+#: assets/admin/js/wpd-doc-booker-admin.js:134987
+#: assets/admin/js/wpd-settings-page.js:110072
+msgid "Booking ID"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120027
+#: assets/admin/js/wpd-doc-booker-admin.js:156822
+#: assets/admin/js/wpd-settings-page.js:129081
+#: src/js/admin/utils/data.js:278
+#: assets/admin/js/wpd-booking-management.js:102784
+#: assets/admin/js/wpd-doc-booker-admin.js:134993
+#: assets/admin/js/wpd-settings-page.js:110078
+msgid "Patient Name"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120032
+#: assets/admin/js/wpd-doc-booker-admin.js:156827
+#: assets/admin/js/wpd-settings-page.js:129086
+#: src/js/admin/utils/data.js:285
+#: assets/admin/js/wpd-booking-management.js:102791
+#: assets/admin/js/wpd-doc-booker-admin.js:135000
+#: assets/admin/js/wpd-settings-page.js:110085
+msgid "Clinic Name"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120037
+#: assets/admin/js/wpd-doc-booker-admin.js:156832
+#: assets/admin/js/wpd-settings-page.js:129091
+#: src/js/admin/utils/data.js:291
+#: assets/admin/js/wpd-booking-management.js:102797
+#: assets/admin/js/wpd-doc-booker-admin.js:135006
+#: assets/admin/js/wpd-settings-page.js:110091
+msgid "Doctor Name"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120042
+#: assets/admin/js/wpd-doc-booker-admin.js:156837
+#: assets/admin/js/wpd-settings-page.js:129096
+#: src/js/admin/utils/data.js:297
+#: assets/admin/js/wpd-booking-management.js:102803
+#: assets/admin/js/wpd-doc-booker-admin.js:135012
+#: assets/admin/js/wpd-settings-page.js:110097
+msgid "Day"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120047
+#: assets/admin/js/wpd-doc-booker-admin.js:156842
+#: assets/admin/js/wpd-settings-page.js:129101
+#: src/js/admin/utils/data.js:303
+#: assets/admin/js/wpd-booking-management.js:102809
+#: assets/admin/js/wpd-doc-booker-admin.js:135018
+#: assets/admin/js/wpd-settings-page.js:110103
+msgid "Time"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120052
+#: assets/admin/js/wpd-doc-booker-admin.js:156847
+#: assets/admin/js/wpd-settings-page.js:129106
+#: src/js/admin/utils/data.js:309
+#: assets/admin/js/wpd-booking-management.js:102815
+#: assets/admin/js/wpd-doc-booker-admin.js:135024
+#: assets/admin/js/wpd-settings-page.js:110109
+msgid "Status"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120068
+#: assets/admin/js/wpd-doc-booker-admin.js:156863
+#: assets/admin/js/wpd-settings-page.js:129122
+#: src/js/admin/utils/data.js:316
+#: assets/admin/js/wpd-booking-management.js:102822
+#: assets/admin/js/wpd-doc-booker-admin.js:135031
+#: assets/admin/js/wpd-settings-page.js:110116
+msgid "Present Status"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120084
+#: assets/admin/js/wpd-doc-booker-admin.js:156879
+#: assets/admin/js/wpd-settings-page.js:129138
+#: src/js/admin/utils/data.js:323
+#: assets/admin/js/wpd-booking-management.js:102829
+#: assets/admin/js/wpd-doc-booker-admin.js:135038
+#: assets/admin/js/wpd-settings-page.js:110123
+msgid "Patient Note"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120089
+#: assets/admin/js/wpd-doc-booker-admin.js:156884
+#: assets/admin/js/wpd-settings-page.js:129143
+#: src/js/admin/utils/data.js:329
+#: assets/admin/js/wpd-booking-management.js:102848
+#: assets/admin/js/wpd-doc-booker-admin.js:135057
+#: assets/admin/js/wpd-settings-page.js:110142
+msgid "Actions"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120095
+#: assets/admin/js/wpd-doc-booker-admin.js:156890
+#: assets/admin/js/wpd-settings-page.js:129149
+#: src/js/admin/utils/data.js:334
+#: assets/admin/js/wpd-booking-management.js:102853
+#: assets/admin/js/wpd-doc-booker-admin.js:135062
+#: assets/admin/js/wpd-settings-page.js:110147
+msgid "Are you sure to cancel this Booking?"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:120107
+#: assets/admin/js/wpd-doc-booker-admin.js:156902
+#: assets/admin/js/wpd-settings-page.js:129161
+#: src/js/admin/utils/data.js:344
+#: assets/admin/js/wpd-booking-management.js:102863
+#: assets/admin/js/wpd-doc-booker-admin.js:135072
+#: assets/admin/js/wpd-settings-page.js:110157
+msgid "Are you sure to delete this booking?"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:151962
+#: assets/admin/js/wpd-doc-booker-admin.js:152944
+#: src/js/admin/components/ClinicGalleryImages.jsx:12
+#: src/js/admin/components/DoctorAwards.jsx:10
+#: assets/admin/js/wpd-doc-booker-admin.js:131643
+#: assets/admin/js/wpd-doc-booker-admin.js:132290
+msgid "WordPress media library is not available."
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:152039
+#: src/js/admin/components/ClinicGalleryImages.jsx:68
+#: assets/admin/js/wpd-doc-booker-admin.js:131699
+msgid "Add Image"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:152096
+#: src/js/admin/components/ClinicInfo.jsx:26
+#: assets/admin/js/wpd-doc-booker-admin.js:131735
+msgid "Clinic Hotline"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:152103
+#: src/js/admin/components/ClinicInfo.jsx:32
+#: assets/admin/js/wpd-doc-booker-admin.js:131741
+msgid "Clinic Email"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:152110
+#: src/js/admin/components/ClinicInfo.jsx:38
+#: assets/admin/js/wpd-doc-booker-admin.js:131747
+msgid "Clinic Social Icons"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:152119
+#: src/js/admin/components/ClinicInfo.jsx:48
+#: assets/admin/js/wpd-doc-booker-admin.js:131757
+msgid "Clinic Gallery Images"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:152315
+#: assets/admin/js/wpd-doc-booker-admin.js:152426
+#: src/js/admin/components/ClinicLocationMap.jsx:97
+#: src/js/admin/components/ClinicMetaApp.jsx:36
+#: assets/admin/js/wpd-doc-booker-admin.js:131865
+#: assets/admin/js/wpd-doc-booker-admin.js:131919
+msgid "Clinic Location"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:152422
+#: assets/admin/js/wpd-doc-booker-admin.js:153261
+#: assets/admin/js/wpd-doc-booker-admin.js:153545
+#: src/js/admin/components/ClinicMetaApp.jsx:35
+#: src/js/admin/components/DoctorClinicInfo.jsx:90
+#: src/js/admin/components/DoctorMetaApp.jsx:42
+#: assets/admin/js/wpd-doc-booker-admin.js:131918
+#: assets/admin/js/wpd-doc-booker-admin.js:132498
+#: assets/admin/js/wpd-doc-booker-admin.js:132691
+msgid "Clinic Info"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:152787
+#: assets/admin/js/wpd-doc-booker-admin.js:154255
+#: src/js/admin/components/ClinicShortcodeMeta.jsx:155
+#: src/js/admin/components/DoctorShortcodeMeta.jsx:178
+#: assets/admin/js/wpd-doc-booker-admin.js:132189
+#: assets/admin/js/wpd-doc-booker-admin.js:133211
+msgid "General Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:152791
+#: assets/admin/js/wpd-doc-booker-admin.js:154259
+#: assets/admin/js/wpd-settings-page.js:127511
+#: assets/admin/js/wpd-settings-page.js:128401
+#: src/js/admin/components/ClinicShortcodeMeta.jsx:156
+#: src/js/admin/components/DoctorShortcodeMeta.jsx:179
+#: src/js/admin/components/settings-page/clinic/ImageSettings.jsx:16
+#: src/js/admin/components/settings-page/doctor/ImageSettings.jsx:16
+#: assets/admin/js/wpd-doc-booker-admin.js:132190
+#: assets/admin/js/wpd-doc-booker-admin.js:133212
+#: assets/admin/js/wpd-settings-page.js:109110
+#: assets/admin/js/wpd-settings-page.js:109555
+msgid "Image Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:152795
+#: assets/admin/js/wpd-doc-booker-admin.js:154263
+#: src/js/admin/components/ClinicShortcodeMeta.jsx:157
+#: src/js/admin/components/DoctorShortcodeMeta.jsx:180
+#: assets/admin/js/wpd-doc-booker-admin.js:132191
+#: assets/admin/js/wpd-doc-booker-admin.js:133213
+msgid "Filtering Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:152799
+#: assets/admin/js/wpd-doc-booker-admin.js:154267
+#: assets/admin/js/wpd-settings-page.js:126135
+#: src/js/admin/components/ClinicShortcodeMeta.jsx:158
+#: src/js/admin/components/DoctorShortcodeMeta.jsx:181
+#: src/js/admin/components/settings-page/MainHeader.jsx:59
+#: assets/admin/js/wpd-doc-booker-admin.js:132192
+#: assets/admin/js/wpd-doc-booker-admin.js:133214
+#: assets/admin/js/wpd-settings-page.js:108002
+msgid "Style Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:152971
+#: src/js/admin/components/DoctorAwards.jsx:34
+#: assets/admin/js/wpd-doc-booker-admin.js:132314
+msgid "Doctor Awards"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153087
+#: src/js/admin/components/DoctorAwards.jsx:120
+#: assets/admin/js/wpd-doc-booker-admin.js:132400
+msgid "Add Award"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153202
+#: src/js/admin/components/DoctorClinicInfo.jsx:45
+#: assets/admin/js/wpd-doc-booker-admin.js:132453
+msgid "This clinic is already added!."
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153263
+#: src/js/admin/components/DoctorClinicInfo.jsx:93
+#: assets/admin/js/wpd-doc-booker-admin.js:132501
+msgid "At least one clinic is required to add clinic info."
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153303
+#: src/js/admin/components/DoctorClinicInfo.jsx:124
+#: assets/admin/js/wpd-doc-booker-admin.js:132532
+msgid "Enter clinic booking phone number"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153313
+#: src/js/admin/components/DoctorClinicInfo.jsx:132
+#: assets/admin/js/wpd-doc-booker-admin.js:132540
+msgid "Set as Holiday:"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153341
+#: src/js/admin/components/DoctorClinicInfo.jsx:161
+#: assets/admin/js/wpd-doc-booker-admin.js:132569
+msgid "Remove Clinic"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153351
+#: src/js/admin/components/DoctorClinicInfo.jsx:168
+#: assets/admin/js/wpd-doc-booker-admin.js:132576
+msgid "Add Clinic Info"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153402
+#: assets/admin/js/wpd-settings-page.js:126987
+#: src/js/admin/components/DoctorDetails.jsx:24
+#: src/js/admin/components/settings-page/StyleSettings.jsx:175
+#: assets/admin/js/wpd-doc-booker-admin.js:132611
+#: assets/admin/js/wpd-settings-page.js:108660
+msgid "Doctor Designation"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153409
+#: assets/admin/js/wpd-settings-page.js:127010
+#: src/js/admin/components/DoctorDetails.jsx:30
+#: src/js/admin/components/settings-page/StyleSettings.jsx:206
+#: assets/admin/js/wpd-doc-booker-admin.js:132617
+#: assets/admin/js/wpd-settings-page.js:108691
+msgid "Doctor Speciality"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153416
+#: src/js/admin/components/DoctorDetails.jsx:36
+#: assets/admin/js/wpd-doc-booker-admin.js:132623
+msgid "Doctor Work Place"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153423
+#: assets/admin/js/wpd-settings-page.js:127056
+#: src/js/admin/components/DoctorDetails.jsx:42
+#: src/js/admin/components/settings-page/StyleSettings.jsx:269
+#: assets/admin/js/wpd-doc-booker-admin.js:132629
+#: assets/admin/js/wpd-settings-page.js:108754
+msgid "Doctor Degree"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153433
+#: src/js/admin/components/DoctorDetails.jsx:49
+#: assets/admin/js/wpd-doc-booker-admin.js:132636
+msgid "Doctor Booking Fee"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153537
+#: src/js/admin/components/DoctorMetaApp.jsx:40
+#: assets/admin/js/wpd-doc-booker-admin.js:132689
+msgid "Doctor Details"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153541
+#: assets/public/js/wpd-global-doc-booking.js:39746
+#: src/js/admin/components/DoctorMetaApp.jsx:41
+#: src/js/public/components/ProgressBar.jsx:8
+#: assets/admin/js/wpd-doc-booker-admin.js:132690
+#: assets/public/js/wpd-global-doc-booking.js:38150
+msgid "Schedule"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153711
+#: src/js/admin/components/DoctorMetaApp.jsx:165
+#: assets/admin/js/wpd-doc-booker-admin.js:132814
+msgid "Doctor Social Icons"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153723
+#: src/js/admin/components/DoctorMetaApp.jsx:176
+#: assets/admin/js/wpd-doc-booker-admin.js:132825
+msgid "Doctor Services"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153739
+#: src/js/admin/components/DoctorMetaApp.jsx:181
+#: assets/admin/js/wpd-doc-booker-admin.js:132830
+msgid "Separate each service with a comma."
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:153973
+#: src/js/admin/components/DoctorSchedule.jsx:147
+#: assets/admin/js/wpd-doc-booker-admin.js:132999
+msgid "Select time"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:154544
+#: src/js/admin/components/SocialsRepeater.jsx:88
+#: assets/admin/js/wpd-doc-booker-admin.js:133400
+msgid "Please enter a valid URL"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:154566
+#: src/js/admin/components/SocialsRepeater.jsx:112
+#: assets/admin/js/wpd-doc-booker-admin.js:133424
+msgid "Add Social"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:154715
+#: assets/admin/js/wpd-settings-page.js:124582
+#: src/js/admin/components/fields/StyleControlRow.jsx:57
+#: src/js/admin/components/settings-page/SettingsStyleControlRowtest.jsx:47
+#: assets/admin/js/wpd-doc-booker-admin.js:133508
+#: assets/admin/js/wpd-settings-page.js:106640
+msgid "Color"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:154771
+#: assets/admin/js/wpd-settings-page.js:124638
+#: src/js/admin/components/fields/StyleControlRow.jsx:96
+#: src/js/admin/components/settings-page/SettingsStyleControlRowtest.jsx:62
+#: assets/admin/js/wpd-doc-booker-admin.js:133547
+#: assets/admin/js/wpd-settings-page.js:106679
+msgid "Font Size"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:154801
+#: assets/admin/js/wpd-settings-page.js:124668
+#: src/js/admin/components/fields/StyleControlRow.jsx:118
+#: src/js/admin/components/settings-page/SettingsStyleControlRowtest.jsx:80
+#: assets/admin/js/wpd-doc-booker-admin.js:133569
+#: assets/admin/js/wpd-settings-page.js:106701
+msgid "Font Weight"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:154833
+#: assets/admin/js/wpd-settings-page.js:124700
+#: src/js/admin/components/fields/StyleControlRow.jsx:140
+#: src/js/admin/components/settings-page/SettingsStyleControlRowtest.jsx:98
+#: assets/admin/js/wpd-doc-booker-admin.js:133591
+#: assets/admin/js/wpd-settings-page.js:106723
+msgid "Alignment"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155345
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:101
+#: assets/admin/js/wpd-doc-booker-admin.js:133906
+msgid "Posts Limit"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155364
+#: assets/admin/js/wpd-settings-page.js:124925
+#: assets/admin/js/wpd-settings-page.js:125525
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:123
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:134
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:116
+#: assets/admin/js/wpd-doc-booker-admin.js:133921
+#: assets/admin/js/wpd-settings-page.js:106870
+#: assets/admin/js/wpd-settings-page.js:107349
+msgid "Grid Columns"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155386
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:131
+#: assets/admin/js/wpd-doc-booker-admin.js:133936
+msgid "More Button"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155405
+#: assets/admin/js/wpd-settings-page.js:125017
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:221
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:149
+#: assets/admin/js/wpd-doc-booker-admin.js:133954
+#: assets/admin/js/wpd-settings-page.js:106968
+msgid "Button Text"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155417
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:159
+#: assets/admin/js/wpd-doc-booker-admin.js:133964
+msgid "Button URL"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155423
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:165
+#: assets/admin/js/wpd-doc-booker-admin.js:133970
+msgid "Enter a valid URL"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155430
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:173
+#: assets/admin/js/wpd-doc-booker-admin.js:133978
+msgid "Please enter a valid URL (starting with http or https)"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155487
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:221
+#: assets/admin/js/wpd-doc-booker-admin.js:134026
+msgid "Show Doctor Designation"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155513
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:239
+#: assets/admin/js/wpd-doc-booker-admin.js:134044
+msgid "Show Doctor Speciality"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155539
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:257
+#: assets/admin/js/wpd-doc-booker-admin.js:134062
+msgid "Show Doctor WorkPlace"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155565
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:275
+#: assets/admin/js/wpd-doc-booker-admin.js:134080
+msgid "Show Doctor Degree"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155591
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:293
+#: assets/admin/js/wpd-doc-booker-admin.js:134098
+msgid "Show Doctor Department"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155617
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:311
+#: assets/admin/js/wpd-doc-booker-admin.js:134116
+msgid "Show Doctor Social Icons"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155643
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:329
+#: assets/admin/js/wpd-doc-booker-admin.js:134134
+msgid "Show Filtering"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155696
+#: assets/admin/js/wpd-settings-page.js:124982
+#: assets/admin/js/wpd-settings-page.js:125582
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:183
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:194
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:371
+#: assets/admin/js/wpd-doc-booker-admin.js:134176
+#: assets/admin/js/wpd-settings-page.js:106930
+#: assets/admin/js/wpd-settings-page.js:107409
+msgid "Content Limit"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155722
+#: assets/admin/js/wpd-settings-page.js:125009
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:213
+#: src/js/admin/components/shortcode/GeneralSettings.jsx:391
+#: assets/admin/js/wpd-doc-booker-admin.js:134196
+#: assets/admin/js/wpd-settings-page.js:106960
+msgid "Show Map Button"
+msgstr ""
+
+#: assets/admin/js/wpd-doc-booker-admin.js:155992
+#: assets/admin/js/wpd-settings-page.js:127725
+#: assets/admin/js/wpd-settings-page.js:128615
+#: src/js/admin/components/settings-page/clinic/ImageSettings.jsx:223
+#: src/js/admin/components/settings-page/doctor/ImageSettings.jsx:222
+#: src/js/admin/components/shortcode/ImageSettings.jsx:150
+#: assets/admin/js/wpd-doc-booker-admin.js:134371
+#: assets/admin/js/wpd-settings-page.js:109317
+#: assets/admin/js/wpd-settings-page.js:109761
+msgid "Image Border Radius. Example: 0 15px 15px 15px"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:124858
+#: assets/admin/js/wpd-settings-page.js:126128
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:64
+#: src/js/admin/components/settings-page/MainHeader.jsx:53
+#: assets/admin/js/wpd-settings-page.js:106811
+#: assets/admin/js/wpd-settings-page.js:107996
+msgid "Clinic Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:124863
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:66
+#: assets/admin/js/wpd-settings-page.js:106813
+msgid "Clinic Archive Style"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:124899
+#: assets/admin/js/wpd-settings-page.js:125499
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:101
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:112
+#: assets/admin/js/wpd-settings-page.js:106848
+#: assets/admin/js/wpd-settings-page.js:107327
+msgid "Posts Per Page"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:124918
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:118
+#: assets/admin/js/wpd-settings-page.js:106865
+msgid "you can select clinic post item per page"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:124944
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:144
+#: assets/admin/js/wpd-settings-page.js:106891
+msgid "you can select clinic archive page grid columns"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:124951
+#: assets/admin/js/wpd-settings-page.js:125551
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:149
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:160
+#: assets/admin/js/wpd-settings-page.js:106896
+#: assets/admin/js/wpd-settings-page.js:107375
+msgid "Page Layout"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:124972
+#: assets/admin/js/wpd-settings-page.js:125572
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:173
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:184
+#: assets/admin/js/wpd-settings-page.js:106920
+#: assets/admin/js/wpd-settings-page.js:107399
+msgid "Visibility Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:124974
+#: assets/admin/js/wpd-settings-page.js:125574
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:175
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:186
+#: assets/admin/js/wpd-settings-page.js:106922
+#: assets/admin/js/wpd-settings-page.js:107401
+msgid "Show Content"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:124975
+#: assets/admin/js/wpd-settings-page.js:125575
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:176
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:187
+#: assets/admin/js/wpd-settings-page.js:106923
+#: assets/admin/js/wpd-settings-page.js:107402
+msgid "Switch on to show content"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125005
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:206
+#: assets/admin/js/wpd-settings-page.js:106953
+msgid "you can set clinic content limit"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125010
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:214
+#: assets/admin/js/wpd-settings-page.js:106961
+msgid "Switch on to show google map button"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125040
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:243
+#: assets/admin/js/wpd-settings-page.js:106990
+msgid "you can add map button text"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125045
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:253
+#: assets/admin/js/wpd-settings-page.js:107000
+msgid "Clinic Single Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125050
+#: assets/admin/js/wpd-settings-page.js:125645
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:255
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:266
+#: assets/admin/js/wpd-settings-page.js:107002
+#: assets/admin/js/wpd-settings-page.js:107481
+msgid "Single Page Layout"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125069
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:276
+#: assets/admin/js/wpd-settings-page.js:107023
+msgid "you can select clinic single page page layout"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125076
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:281
+#: assets/admin/js/wpd-settings-page.js:107028
+msgid "Clinic Gallery View"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125104
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:310
+#: assets/admin/js/wpd-settings-page.js:107057
+msgid "Slider Autoplay"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125127
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:333
+#: assets/admin/js/wpd-settings-page.js:107080
+msgid "you can set slider autoplay. Default:True"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125134
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:338
+#: assets/admin/js/wpd-settings-page.js:107085
+msgid "Slider Loop"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125157
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:361
+#: assets/admin/js/wpd-settings-page.js:107108
+msgid "you can set slider loop play. Default:True"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125164
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:366
+#: assets/admin/js/wpd-settings-page.js:107113
+msgid "Centered Slider"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125187
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:389
+#: assets/admin/js/wpd-settings-page.js:107136
+msgid "you can set slider position. Default:False"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125194
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:394
+#: assets/admin/js/wpd-settings-page.js:107141
+msgid "Slides Per View"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125217
+#: src/js/admin/components/settings-page/ClinicSettings.jsx:413
+#: assets/admin/js/wpd-settings-page.js:107160
+msgid "you can set slides per view."
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125458
+#: assets/admin/js/wpd-settings-page.js:126121
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:75
+#: src/js/admin/components/settings-page/MainHeader.jsx:47
+#: assets/admin/js/wpd-settings-page.js:107290
+#: assets/admin/js/wpd-settings-page.js:107990
+msgid "Doctor Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125463
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:77
+#: assets/admin/js/wpd-settings-page.js:107292
+msgid "Doctor Archive Style"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125518
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:129
+#: assets/admin/js/wpd-settings-page.js:107344
+msgid "you can select doctor post item per page"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125544
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:155
+#: assets/admin/js/wpd-settings-page.js:107370
+msgid "you can select doctor archive page grid columns"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125605
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:217
+#: assets/admin/js/wpd-settings-page.js:107432
+msgid "you can doctor content limit"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125609
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:224
+#: assets/admin/js/wpd-settings-page.js:107439
+msgid "Show Department"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125610
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:225
+#: assets/admin/js/wpd-settings-page.js:107440
+msgid "Switch on to show doctor department"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125614
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:230
+#: assets/admin/js/wpd-settings-page.js:107445
+msgid "Show Designation"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125615
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:231
+#: assets/admin/js/wpd-settings-page.js:107446
+msgid "Switch on to show doctor designation"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125619
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:236
+#: assets/admin/js/wpd-settings-page.js:107451
+msgid "Show Speciality"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125620
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:237
+#: assets/admin/js/wpd-settings-page.js:107452
+msgid "Switch on to show doctor speciality"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125624
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:242
+#: assets/admin/js/wpd-settings-page.js:107457
+msgid "Show Workplace"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125625
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:243
+#: assets/admin/js/wpd-settings-page.js:107458
+msgid "Switch on to show doctor workplace"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125629
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:248
+#: assets/admin/js/wpd-settings-page.js:107463
+msgid "Show Degree"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125630
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:249
+#: assets/admin/js/wpd-settings-page.js:107464
+msgid "Switch on to show doctor degree"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125634
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:254
+#: assets/admin/js/wpd-settings-page.js:107469
+msgid "Show Social Icons"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125635
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:255
+#: assets/admin/js/wpd-settings-page.js:107470
+msgid "Switch on to show doctor doctor social icons"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125640
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:264
+#: assets/admin/js/wpd-settings-page.js:107479
+msgid "Doctor Single Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125664
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:287
+#: assets/admin/js/wpd-settings-page.js:107502
+msgid "you can select doctor single page page layout"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125671
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:292
+#: assets/admin/js/wpd-settings-page.js:107507
+msgid "Display Doctor Schedule"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125690
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:313
+#: assets/admin/js/wpd-settings-page.js:107528
+msgid "you can enable for display doctor schedule on doctor details page"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125697
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:320
+#: assets/admin/js/wpd-settings-page.js:107535
+msgid "Showing Bookable Text"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125716
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:341
+#: assets/admin/js/wpd-settings-page.js:107556
+msgid "you can enable for display bookable text on doctor schedule  doctor details page"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125723
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:351
+#: assets/admin/js/wpd-settings-page.js:107566
+msgid "Call For Booking"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125742
+#: src/js/admin/components/settings-page/DoctorSettings.jsx:372
+#: assets/admin/js/wpd-settings-page.js:107587
+msgid "you can enable call for booking number on  doctor details page"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125890
+#: assets/admin/js/wpd-settings-page.js:126142
+#: src/js/admin/components/settings-page/GlobalSettings.jsx:63
+#: src/js/admin/components/settings-page/MainHeader.jsx:65
+#: assets/admin/js/wpd-settings-page.js:107660
+#: assets/admin/js/wpd-settings-page.js:108008
+msgid "Global Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125895
+#: src/js/admin/components/settings-page/GlobalSettings.jsx:65
+#: assets/admin/js/wpd-settings-page.js:107662
+msgid "Doctor Booking Shortcode"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125914
+#: src/js/admin/components/settings-page/GlobalSettings.jsx:83
+#: assets/admin/js/wpd-settings-page.js:107680
+msgid "Online Booking Payment"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125937
+#: src/js/admin/components/settings-page/GlobalSettings.jsx:106
+#: assets/admin/js/wpd-settings-page.js:107703
+msgid "you can enable online booking payment"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125945
+#: src/js/admin/components/settings-page/GlobalSettings.jsx:114
+#: assets/admin/js/wpd-settings-page.js:107711
+msgid "Payment Gateway"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:125980
+#: src/js/admin/components/settings-page/GlobalSettings.jsx:148
+#: assets/admin/js/wpd-settings-page.js:107886
+msgid "Currency"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126007
+#: src/js/admin/components/settings-page/GlobalSettings.jsx:174
+#: assets/admin/js/wpd-settings-page.js:107912
+msgid "Currency Position"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126107
+#: assets/admin/js/wpd-settings-page.js:126334
+#: src/js/admin/components/settings-page/MainHeader.jsx:35
+#: src/js/admin/components/settings-page/PageSettings.jsx:73
+#: assets/admin/js/wpd-settings-page.js:107978
+#: assets/admin/js/wpd-settings-page.js:108127
+msgid "Page Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126114
+#: src/js/admin/components/settings-page/MainHeader.jsx:41
+#: assets/admin/js/wpd-settings-page.js:107984
+msgid "Permalinks Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126339
+#: src/js/admin/components/settings-page/PageSettings.jsx:75
+#: assets/admin/js/wpd-settings-page.js:108129
+msgid "Doctors Page"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126349
+#: src/js/admin/components/settings-page/PageSettings.jsx:85
+#: assets/admin/js/wpd-settings-page.js:108139
+msgid "you can select doctors archive page from dropbox"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126356
+#: src/js/admin/components/settings-page/PageSettings.jsx:90
+#: assets/admin/js/wpd-settings-page.js:108144
+msgid "Clinics Page"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126366
+#: src/js/admin/components/settings-page/PageSettings.jsx:100
+#: assets/admin/js/wpd-settings-page.js:108154
+msgid "you can select clinics archive page from dropbox"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126431
+#: src/js/admin/components/settings-page/PermalinkSettings.jsx:17
+#: assets/admin/js/wpd-settings-page.js:108182
+msgid "Permalink Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126436
+#: src/js/admin/components/settings-page/PermalinkSettings.jsx:19
+#: assets/admin/js/wpd-settings-page.js:108184
+msgid "Doctor Base"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126455
+#: src/js/admin/components/settings-page/PermalinkSettings.jsx:42
+#: assets/admin/js/wpd-settings-page.js:108207
+msgid "you can change your doctor post type base name"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126462
+#: src/js/admin/components/settings-page/PermalinkSettings.jsx:47
+#: assets/admin/js/wpd-settings-page.js:108212
+msgid "Doctor Category Base"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126481
+#: src/js/admin/components/settings-page/PermalinkSettings.jsx:70
+#: assets/admin/js/wpd-settings-page.js:108235
+msgid "you can change your doctor post type category base name"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126488
+#: src/js/admin/components/settings-page/PermalinkSettings.jsx:75
+#: assets/admin/js/wpd-settings-page.js:108240
+msgid "Clinic Base"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126507
+#: src/js/admin/components/settings-page/PermalinkSettings.jsx:98
+#: assets/admin/js/wpd-settings-page.js:108263
+msgid "you can change your clinic post type  base name"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126705
+#: src/js/admin/components/settings-page/SettingsPageApp.jsx:70
+#: assets/admin/js/wpd-settings-page.js:108375
+msgid "Something is Wrong."
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126744
+#: src/js/admin/components/settings-page/SettingsPageApp.jsx:100
+#: assets/admin/js/wpd-settings-page.js:108405
+msgid "Success"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126759
+#: src/js/admin/components/settings-page/SettingsPageApp.jsx:115
+#: assets/admin/js/wpd-settings-page.js:108420
+msgid "An error occurred while save settings."
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126808
+#: src/js/admin/components/settings-page/SettingsPageApp.jsx:173
+#: assets/admin/js/wpd-settings-page.js:108478
+msgid "Save Settings"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126879
+#: src/js/admin/components/settings-page/StyleSettings.jsx:33
+#: assets/admin/js/wpd-settings-page.js:108518
+msgid "Global Style"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126881
+#: src/js/admin/components/settings-page/StyleSettings.jsx:35
+#: assets/admin/js/wpd-settings-page.js:108520
+msgid "Primary Color"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126882
+#: src/js/admin/components/settings-page/StyleSettings.jsx:36
+#: assets/admin/js/wpd-settings-page.js:108521
+msgid "This color is set for all primary color in this plugin"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126887
+#: src/js/admin/components/settings-page/StyleSettings.jsx:42
+#: assets/admin/js/wpd-settings-page.js:108527
+msgid "Secondary Color"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126888
+#: src/js/admin/components/settings-page/StyleSettings.jsx:43
+#: assets/admin/js/wpd-settings-page.js:108528
+msgid "This color is set for all secondary color in this plugin"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126893
+#: src/js/admin/components/settings-page/StyleSettings.jsx:49
+#: assets/admin/js/wpd-settings-page.js:108534
+msgid "Border Color"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126894
+#: src/js/admin/components/settings-page/StyleSettings.jsx:50
+#: assets/admin/js/wpd-settings-page.js:108535
+msgid "This color is set for all border color in this plugin"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126900
+#: src/js/admin/components/settings-page/StyleSettings.jsx:57
+#: assets/admin/js/wpd-settings-page.js:108542
+msgid "Doctor Style"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126902
+#: src/js/admin/components/settings-page/StyleSettings.jsx:59
+#: assets/admin/js/wpd-settings-page.js:108544
+msgid "Doctor Background"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126903
+#: src/js/admin/components/settings-page/StyleSettings.jsx:60
+#: assets/admin/js/wpd-settings-page.js:108545
+msgid "This color is set for doctor background color"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126908
+#: src/js/admin/components/settings-page/StyleSettings.jsx:67
+#: assets/admin/js/wpd-settings-page.js:108552
+msgid "Doctor Title"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126931
+#: src/js/admin/components/settings-page/StyleSettings.jsx:107
+#: assets/admin/js/wpd-settings-page.js:108592
+msgid "Doctor Content"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:126964
+#: src/js/admin/components/settings-page/StyleSettings.jsx:141
+#: assets/admin/js/wpd-settings-page.js:108626
+msgid "Doctor Department"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127033
+#: src/js/admin/components/settings-page/StyleSettings.jsx:237
+#: assets/admin/js/wpd-settings-page.js:108722
+msgid "Doctor Workplace"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127080
+#: src/js/admin/components/settings-page/StyleSettings.jsx:294
+#: assets/admin/js/wpd-settings-page.js:108779
+msgid "Clinic Style"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127082
+#: src/js/admin/components/settings-page/StyleSettings.jsx:296
+#: assets/admin/js/wpd-settings-page.js:108781
+msgid "Clinic Background"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127083
+#: src/js/admin/components/settings-page/StyleSettings.jsx:297
+#: assets/admin/js/wpd-settings-page.js:108782
+msgid "This color is set for clinic background color"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127088
+#: src/js/admin/components/settings-page/StyleSettings.jsx:310
+#: assets/admin/js/wpd-settings-page.js:108795
+msgid "Clinic Title"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127111
+#: src/js/admin/components/settings-page/StyleSettings.jsx:342
+#: assets/admin/js/wpd-settings-page.js:108827
+msgid "Clinic Content"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127134
+#: src/js/admin/components/settings-page/StyleSettings.jsx:366
+#: assets/admin/js/wpd-settings-page.js:108851
+msgid "Clinic Map Button"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127357
+#: src/js/admin/components/settings-page/clinic/FilteringSettings.jsx:75
+#: assets/admin/js/wpd-settings-page.js:109006
+msgid "Clinic Filtering"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127362
+#: src/js/admin/components/settings-page/clinic/FilteringSettings.jsx:77
+#: assets/admin/js/wpd-settings-page.js:109008
+msgid "Include Clinic"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127375
+#: src/js/admin/components/settings-page/clinic/FilteringSettings.jsx:90
+#: assets/admin/js/wpd-settings-page.js:109021
+msgid "Select the classes that you want to display on Clinic archive page"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127382
+#: src/js/admin/components/settings-page/clinic/FilteringSettings.jsx:95
+#: assets/admin/js/wpd-settings-page.js:109026
+msgid "Exclude Clinic"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127395
+#: src/js/admin/components/settings-page/clinic/FilteringSettings.jsx:108
+#: assets/admin/js/wpd-settings-page.js:109039
+msgid "Select the classes that you don't want to display on Clinic archive page"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127402
+#: src/js/admin/components/settings-page/clinic/FilteringSettings.jsx:113
+#: assets/admin/js/wpd-settings-page.js:109044
+msgid "Clinic Order By"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127425
+#: src/js/admin/components/settings-page/clinic/FilteringSettings.jsx:136
+#: assets/admin/js/wpd-settings-page.js:109067
+msgid "Clinic Order"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127516
+#: src/js/admin/components/settings-page/clinic/ImageSettings.jsx:18
+#: assets/admin/js/wpd-settings-page.js:109112
+msgid "Clinic Thumbnail Width"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127560
+#: src/js/admin/components/settings-page/clinic/ImageSettings.jsx:64
+#: assets/admin/js/wpd-settings-page.js:109158
+msgid "you can set clinic post thumbnail image width"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127567
+#: src/js/admin/components/settings-page/clinic/ImageSettings.jsx:69
+#: assets/admin/js/wpd-settings-page.js:109163
+msgid "Clinic Thumbnail Height"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127611
+#: src/js/admin/components/settings-page/clinic/ImageSettings.jsx:115
+#: assets/admin/js/wpd-settings-page.js:109209
+msgid "you can set clinic post thumbnail image height"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127618
+#: assets/admin/js/wpd-settings-page.js:128508
+#: src/js/admin/components/settings-page/clinic/ImageSettings.jsx:120
+#: src/js/admin/components/settings-page/doctor/ImageSettings.jsx:119
+#: assets/admin/js/wpd-settings-page.js:109214
+#: assets/admin/js/wpd-settings-page.js:109658
+msgid "Image Hard Crop"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127637
+#: assets/admin/js/wpd-settings-page.js:128527
+#: src/js/admin/components/settings-page/clinic/ImageSettings.jsx:141
+#: src/js/admin/components/settings-page/doctor/ImageSettings.jsx:140
+#: assets/admin/js/wpd-settings-page.js:109235
+#: assets/admin/js/wpd-settings-page.js:109679
+msgid "you can set image hard crop"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127644
+#: assets/admin/js/wpd-settings-page.js:128534
+#: src/js/admin/components/settings-page/clinic/ImageSettings.jsx:146
+#: src/js/admin/components/settings-page/doctor/ImageSettings.jsx:145
+#: assets/admin/js/wpd-settings-page.js:109240
+#: assets/admin/js/wpd-settings-page.js:109684
+msgid "Image Border"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127694
+#: assets/admin/js/wpd-settings-page.js:128584
+#: src/js/admin/components/settings-page/clinic/ImageSettings.jsx:195
+#: src/js/admin/components/settings-page/doctor/ImageSettings.jsx:194
+#: assets/admin/js/wpd-settings-page.js:109289
+#: assets/admin/js/wpd-settings-page.js:109733
+msgid "Image Border Color"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127695
+#: src/js/admin/components/settings-page/clinic/ImageSettings.jsx:196
+#: assets/admin/js/wpd-settings-page.js:109290
+msgid "This color is set for clinic image border color"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127704
+#: assets/admin/js/wpd-settings-page.js:128594
+#: src/js/admin/components/settings-page/clinic/ImageSettings.jsx:203
+#: src/js/admin/components/settings-page/doctor/ImageSettings.jsx:202
+#: assets/admin/js/wpd-settings-page.js:109297
+#: assets/admin/js/wpd-settings-page.js:109741
+msgid "Image Border Radius"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127793
+#: src/js/admin/components/settings-page/components/RazorpaySettings.jsx:28
+msgid "Razorpay Mode"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127806
+#: src/js/admin/components/settings-page/components/RazorpaySettings.jsx:36
+msgid "Test Mode"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127809
+#: src/js/admin/components/settings-page/components/RazorpaySettings.jsx:37
+msgid "Live Mode"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127819
+#: src/js/admin/components/settings-page/components/RazorpaySettings.jsx:48
+msgid "Razorpay Test Key ID"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127839
+#: src/js/admin/components/settings-page/components/RazorpaySettings.jsx:63
+msgid "Razorpay Test Secret Key"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127861
+#: src/js/admin/components/settings-page/components/RazorpaySettings.jsx:81
+msgid "Razorpay Live Key ID"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127881
+#: src/js/admin/components/settings-page/components/RazorpaySettings.jsx:96
+msgid "Razorpay Live Secret Key"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127965
+#: src/js/admin/components/settings-page/components/StripeSettings.jsx:29
+#: assets/admin/js/wpd-settings-page.js:107739
+msgid "Stripe Mode"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127986
+#: src/js/admin/components/settings-page/components/StripeSettings.jsx:41
+#: assets/admin/js/wpd-settings-page.js:107764
+msgid "Use test mode for development and live mode for production"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:127994
+#: src/js/admin/components/settings-page/components/StripeSettings.jsx:48
+#: assets/admin/js/wpd-settings-page.js:107773
+msgid "Stripe Test Publishable Key"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128014
+#: src/js/admin/components/settings-page/components/StripeSettings.jsx:60
+#: assets/admin/js/wpd-settings-page.js:107831
+msgid "Stripe Test Secret Key"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128036
+#: src/js/admin/components/settings-page/components/StripeSettings.jsx:75
+#: assets/admin/js/wpd-settings-page.js:107800
+msgid "Stripe Live Publishable Key"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128056
+#: src/js/admin/components/settings-page/components/StripeSettings.jsx:87
+#: assets/admin/js/wpd-settings-page.js:107858
+msgid "Stripe Live Secret Key"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128227
+#: src/js/admin/components/settings-page/doctor/FilteringSettings.jsx:108
+#: assets/admin/js/wpd-settings-page.js:109433
+msgid "Doctor Filtering"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128232
+#: src/js/admin/components/settings-page/doctor/FilteringSettings.jsx:110
+#: assets/admin/js/wpd-settings-page.js:109435
+msgid "Include Doctor"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128245
+#: src/js/admin/components/settings-page/doctor/FilteringSettings.jsx:123
+#: assets/admin/js/wpd-settings-page.js:109448
+msgid "Select the doctors that you want to display on doctor archive page"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128252
+#: src/js/admin/components/settings-page/doctor/FilteringSettings.jsx:128
+#: assets/admin/js/wpd-settings-page.js:109453
+msgid "Exclude Doctor"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128265
+#: src/js/admin/components/settings-page/doctor/FilteringSettings.jsx:141
+#: assets/admin/js/wpd-settings-page.js:109466
+msgid "Select the doctors that you don't want to display on doctor archive page"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128272
+#: src/js/admin/components/settings-page/doctor/FilteringSettings.jsx:146
+#: assets/admin/js/wpd-settings-page.js:109471
+msgid "Doctor Categories"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128285
+#: src/js/admin/components/settings-page/doctor/FilteringSettings.jsx:159
+#: assets/admin/js/wpd-settings-page.js:109484
+msgid "Select the categories that  want to filter doctors on doctor archive page"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128292
+#: src/js/admin/components/settings-page/doctor/FilteringSettings.jsx:164
+#: assets/admin/js/wpd-settings-page.js:109489
+msgid "Doctor Order By"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128315
+#: src/js/admin/components/settings-page/doctor/FilteringSettings.jsx:187
+#: assets/admin/js/wpd-settings-page.js:109512
+msgid "Doctor Order"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128406
+#: src/js/admin/components/settings-page/doctor/ImageSettings.jsx:18
+#: assets/admin/js/wpd-settings-page.js:109557
+msgid "Doctor Thumbnail Width"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128450
+#: src/js/admin/components/settings-page/doctor/ImageSettings.jsx:63
+#: assets/admin/js/wpd-settings-page.js:109602
+msgid "you can set doctor post thumbnail image width"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128457
+#: src/js/admin/components/settings-page/doctor/ImageSettings.jsx:68
+#: assets/admin/js/wpd-settings-page.js:109607
+msgid "Doctor Thumbnail Height"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128501
+#: src/js/admin/components/settings-page/doctor/ImageSettings.jsx:114
+#: assets/admin/js/wpd-settings-page.js:109653
+msgid "you can set doctor post thumbnail image height"
+msgstr ""
+
+#: assets/admin/js/wpd-settings-page.js:128585
+#: src/js/admin/components/settings-page/doctor/ImageSettings.jsx:195
+#: assets/admin/js/wpd-settings-page.js:109734
+msgid "This color is set for doctor image border color"
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37276
+#: assets/public/js/wpd-global-doc-booking.js:39582
+#: src/js/public/components/DoctorDetailsBooking.jsx:45
+#: src/js/public/components/GlobalDoctorBooking.jsx:88
+#: assets/public/js/wpd-doc-details-booking.js:36645
+#: assets/public/js/wpd-global-doc-booking.js:38005
+msgid "Failed to fetch doctor schedule"
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37341
+#: src/js/public/components/DoctorDetailsBooking.jsx:90
+#: assets/public/js/wpd-doc-details-booking.js:36690
+msgid "Please select a time slot"
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37348
+#: src/js/public/components/DoctorDetailsBooking.jsx:95
+#: assets/public/js/wpd-doc-details-booking.js:36695
+msgid "Name and phone number and email are required"
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37381
+#: assets/public/js/wpd-global-doc-booking.js:38968
+#: assets/public/js/wpd-global-doc-booking.js:39026
+#: src/js/public/components/BookingForm.jsx:154
+#: src/js/public/components/BookingForm.jsx:193
+#: src/js/public/components/DoctorDetailsBooking.jsx:125
+#: assets/public/js/wpd-doc-details-booking.js:36725
+#: assets/public/js/wpd-global-doc-booking.js:37636
+#: assets/public/js/wpd-global-doc-booking.js:37674
+msgid "Failed to create booking"
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37401
+#: src/js/public/components/DoctorDetailsBooking.jsx:145
+#: assets/public/js/wpd-doc-details-booking.js:36745
+msgid "Failed to book appointment. Please try again."
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37453
+#: src/js/public/components/DoctorDetailsBooking.jsx:187
+#: assets/public/js/wpd-doc-details-booking.js:36787
+msgid "Doctor Appointment Booking"
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37465
+#: src/js/public/components/DoctorDetailsBooking.jsx:199
+#: assets/public/js/wpd-doc-details-booking.js:36799
+msgid "Select Day"
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37485
+#: src/js/public/components/DoctorDetailsBooking.jsx:217
+#: assets/public/js/wpd-doc-details-booking.js:36817
+msgid "Available Clinics"
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37515
+#: src/js/public/components/DoctorDetailsBooking.jsx:254
+#: assets/public/js/wpd-doc-details-booking.js:36854
+msgid "Patient Information"
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37591
+#: assets/public/js/wpd-global-doc-booking.js:38101
+#: src/js/public/components/Booking/PatientDetailsForm.jsx:94
+#: src/js/public/components/DoctorDetailsBooking.jsx:335
+#: assets/public/js/wpd-doc-details-booking.js:36935
+#: assets/public/js/wpd-global-doc-booking.js:37200
+msgid "Processing..."
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37591
+#: assets/public/js/wpd-global-doc-booking.js:38110
+#: assets/public/js/wpd-global-doc-booking.js:39112
+#: src/js/public/components/Booking/PatientDetailsForm.jsx:106
+#: src/js/public/components/BookingForm.jsx:250
+#: src/js/public/components/DoctorDetailsBooking.jsx:335
+#: assets/public/js/wpd-doc-details-booking.js:36935
+#: assets/public/js/wpd-global-doc-booking.js:37212
+#: assets/public/js/wpd-global-doc-booking.js:37732
+msgid "Confirm Booking"
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37598
+#: src/js/public/components/DoctorDetailsBooking.jsx:344
+#: assets/public/js/wpd-doc-details-booking.js:36944
+msgid "Booking Successful!"
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37600
+#: src/js/public/components/DoctorDetailsBooking.jsx:345
+#: assets/public/js/wpd-doc-details-booking.js:36945
+msgid "Your appointment has been booked for"
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37603
+#: src/js/public/components/DoctorDetailsBooking.jsx:346
+#: assets/public/js/wpd-doc-details-booking.js:36946
+msgid "A confirmation has been sent to your contact information."
+msgstr ""
+
+#: assets/public/js/wpd-doc-details-booking.js:37612
+#: assets/public/js/wpd-global-doc-booking.js:39976
+#: src/js/public/components/DoctorDetailsBooking.jsx:356
+#: src/js/public/components/SuccessMessage.jsx:41
+#: assets/public/js/wpd-doc-details-booking.js:36956
+#: assets/public/js/wpd-global-doc-booking.js:38307
+msgid "Book Another Appointment"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:37857
+#: src/js/public/components/Booking/BookingSummary.jsx:16
+#: assets/public/js/wpd-global-doc-booking.js:37004
+msgid "Booking Summary"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:37862
+#: src/js/public/components/Booking/BookingSummary.jsx:21
+#: assets/public/js/wpd-global-doc-booking.js:37009
+msgid "Booking Fee"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:37873
+#: assets/public/js/wpd-global-doc-booking.js:38651
+#: src/js/public/components/Booking/BookingSummary.jsx:37
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:159
+#: assets/public/js/wpd-global-doc-booking.js:37025
+msgid "Doctor:"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:37881
+#: src/js/public/components/Booking/BookingSummary.jsx:46
+#: assets/public/js/wpd-global-doc-booking.js:37034
+msgid "Department:"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:37889
+#: src/js/public/components/Booking/BookingSummary.jsx:55
+#: assets/public/js/wpd-global-doc-booking.js:37043
+msgid "Clinic:"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:37897
+#: src/js/public/components/Booking/BookingSummary.jsx:64
+#: assets/public/js/wpd-global-doc-booking.js:37052
+msgid "Time:"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38035
+#: src/js/public/components/Booking/PatientDetailsForm.jsx:25
+#: assets/public/js/wpd-global-doc-booking.js:37131
+msgid "Full Name *"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38043
+#: src/js/public/components/Booking/PatientDetailsForm.jsx:32
+#: assets/public/js/wpd-global-doc-booking.js:37138
+msgid "Enter your full name"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38051
+#: src/js/public/components/Booking/PatientDetailsForm.jsx:41
+#: assets/public/js/wpd-global-doc-booking.js:37147
+msgid "Email Address *"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38059
+#: src/js/public/components/Booking/PatientDetailsForm.jsx:48
+#: assets/public/js/wpd-global-doc-booking.js:37154
+msgid "Enter your email"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38067
+#: src/js/public/components/Booking/PatientDetailsForm.jsx:57
+#: assets/public/js/wpd-global-doc-booking.js:37163
+msgid "Phone Number *"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38075
+#: src/js/public/components/Booking/PatientDetailsForm.jsx:64
+#: assets/public/js/wpd-global-doc-booking.js:37170
+msgid "Enter your phone number"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38083
+#: src/js/public/components/Booking/PatientDetailsForm.jsx:73
+#: assets/public/js/wpd-global-doc-booking.js:37179
+msgid "Notes (Optional)"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38091
+#: src/js/public/components/Booking/PatientDetailsForm.jsx:80
+#: assets/public/js/wpd-global-doc-booking.js:37186
+msgid "Any additional information"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38106
+#: src/js/public/components/Booking/PatientDetailsForm.jsx:101
+#: assets/public/js/wpd-global-doc-booking.js:37207
+msgid "Proceed to Payment"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38188
+#: src/js/public/components/Booking/PaymentForm.jsx:32
+#: assets/public/js/wpd-global-doc-booking.js:37254
+msgid "Payment system not loaded. Please refresh the page."
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38251
+#: src/js/public/components/Booking/PaymentForm.jsx:89
+#: assets/public/js/wpd-global-doc-booking.js:37311
+msgid "Stripe is not loaded yet. Please wait and try again."
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38258
+#: src/js/public/components/Booking/PaymentForm.jsx:94
+#: src/js/public/components/PaymentForm.jsx:29
+#: assets/public/js/wpd-global-doc-booking.js:37316
+msgid "Please enter cardholder name"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38288
+#: src/js/public/components/Booking/PaymentForm.jsx:119
+#: assets/public/js/wpd-global-doc-booking.js:37341
+msgid "Failed to create payment method"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38295
+#: assets/public/js/wpd-global-doc-booking.js:38535
+#: src/js/public/components/Booking/PaymentForm.jsx:128
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:74
+#: src/js/public/components/PaymentForm.jsx:58
+#: assets/public/js/wpd-global-doc-booking.js:37350
+msgid "Booking for Dr. "
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38323
+#: src/js/public/components/Booking/PaymentForm.jsx:154
+#: src/js/public/components/PaymentForm.jsx:82
+#: assets/public/js/wpd-global-doc-booking.js:37377
+msgid "Payment processing failed"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38334
+#: assets/public/js/wpd-global-doc-booking.js:38613
+#: src/js/public/components/Booking/PaymentForm.jsx:161
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:130
+#: src/js/public/components/PaymentForm.jsx:90
+#: assets/public/js/wpd-global-doc-booking.js:37384
+msgid "Failed to process payment.  Please try again."
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38356
+#: src/js/public/components/Booking/PaymentForm.jsx:173
+#: src/js/public/components/PaymentForm.jsx:101
+#: assets/public/js/wpd-global-doc-booking.js:37396
+msgid "Secured by Stripe - Your payment information is encrypted"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38361
+#: src/js/public/components/Booking/PaymentForm.jsx:180
+#: src/js/public/components/PaymentForm.jsx:106
+#: assets/public/js/wpd-global-doc-booking.js:37403
+msgid "Test Mode Active - Use test card:  4242 4242 4242 4242"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38369
+#: src/js/public/components/Booking/PaymentForm.jsx:191
+#: src/js/public/components/PaymentForm.jsx:115
+#: assets/public/js/wpd-global-doc-booking.js:37414
+msgid "Cardholder Name *"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38384
+#: src/js/public/components/Booking/PaymentForm.jsx:207
+#: assets/public/js/wpd-global-doc-booking.js:37430
+msgid "Card Details *"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38398
+#: assets/public/js/wpd-global-doc-booking.js:38672
+#: src/js/public/components/Booking/PaymentForm.jsx:222
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:174
+#: src/js/public/components/PaymentForm.jsx:159
+#: assets/public/js/wpd-global-doc-booking.js:37445
+msgid "Total Amount:"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38411
+#: assets/public/js/wpd-global-doc-booking.js:38685
+#: src/js/public/components/Booking/PaymentForm.jsx:238
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:190
+#: assets/public/js/wpd-global-doc-booking.js:37461
+msgid "Processing Payment..."
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38413
+#: src/js/public/components/Booking/PaymentForm.jsx:242
+#: assets/public/js/wpd-global-doc-booking.js:37465
+msgid "Loading... "
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38417
+#: src/js/public/components/Booking/PaymentForm.jsx:247
+#: src/js/public/components/PaymentForm.jsx:179
+#: assets/public/js/wpd-global-doc-booking.js:37470
+msgid "Pay"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38417
+#: src/js/public/components/Booking/PaymentForm.jsx:247
+#: src/js/public/components/PaymentForm.jsx:179
+#: assets/public/js/wpd-global-doc-booking.js:37470
+msgid "& Confirm"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38421
+#: assets/public/js/wpd-global-doc-booking.js:38693
+#: src/js/public/components/Booking/PaymentForm.jsx:254
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:202
+#: src/js/public/components/PaymentForm.jsx:185
+#: assets/public/js/wpd-global-doc-booking.js:37477
+msgid "By confirming your booking, you agree to our terms and conditions"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38492
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:30
+msgid "Razorpay not loaded.  Please refresh the page."
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38527
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:65
+msgid "Failed to create order"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38575
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:106
+msgid "Payment verification failed"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38632
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:141
+msgid "Secured by Razorpay - Your payment information is encrypted"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38637
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:148
+msgid "Test Mode Active"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38644
+#: assets/public/js/wpd-global-doc-booking.js:39112
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:156
+#: src/js/public/components/BookingForm.jsx:250
+#: assets/public/js/wpd-global-doc-booking.js:37732
+msgid "Payment Details"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38660
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:163
+msgid "Booking Fee:"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38689
+#: src/js/public/components/Booking/RazorpayPaymentForm.jsx:195
+msgid "Pay with Razorpay"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38853
+#: src/js/public/components/BookingForm.jsx:67
+#: assets/public/js/wpd-global-doc-booking.js:37549
+msgid "Failed to fetch Stripe configuration"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38862
+#: src/js/public/components/BookingForm.jsx:73
+#: assets/public/js/wpd-global-doc-booking.js:37555
+msgid "Failed to load payment configuration.  Please contact support."
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38912
+#: src/js/public/components/BookingForm.jsx:99
+#: assets/public/js/wpd-global-doc-booking.js:37581
+msgid "Name, phone number and email are required"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38917
+#: src/js/public/components/BookingForm.jsx:105
+#: assets/public/js/wpd-global-doc-booking.js:37587
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:38977
+#: src/js/public/components/BookingForm.jsx:160
+#: assets/public/js/wpd-global-doc-booking.js:37642
+msgid "Failed to create booking.  Please try again."
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39046
+#: src/js/public/components/BookingForm.jsx:201
+#: assets/public/js/wpd-global-doc-booking.js:37682
+msgid "Invalid payment intent ID"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39060
+#: src/js/public/components/BookingForm.jsx:210
+#: assets/public/js/wpd-global-doc-booking.js:37692
+msgid "Payment succeeded but booking failed.  Please contact support."
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39087
+#: src/js/public/components/BookingForm.jsx:229
+#: assets/public/js/wpd-global-doc-booking.js:37711
+msgid "Configuration Error"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39090
+#: src/js/public/components/BookingForm.jsx:232
+#: assets/public/js/wpd-global-doc-booking.js:37714
+msgid "Unable to load payment configuration. Please contact support."
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39096
+#: src/js/public/components/BookingForm.jsx:235
+#: assets/public/js/wpd-global-doc-booking.js:37717
+msgid "Go Back"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39115
+#: src/js/public/components/BookingForm.jsx:254
+#: assets/public/js/wpd-global-doc-booking.js:37736
+msgid "Secure payment powered by Stripe"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39115
+#: src/js/public/components/BookingForm.jsx:255
+#: assets/public/js/wpd-global-doc-booking.js:37737
+msgid "Live"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39115
+#: src/js/public/components/BookingForm.jsx:255
+#: assets/public/js/wpd-global-doc-booking.js:37737
+msgid "Test"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39115
+#: src/js/public/components/BookingForm.jsx:256
+#: assets/public/js/wpd-global-doc-booking.js:37738
+msgid "Mode"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39115
+#: src/js/public/components/BookingForm.jsx:257
+#: assets/public/js/wpd-global-doc-booking.js:37739
+msgid "Please confirm your booking details"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39124
+#: src/js/public/components/BookingForm.jsx:267
+#: assets/public/js/wpd-global-doc-booking.js:37749
+msgid "Back to Details"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39124
+#: src/js/public/components/BookingForm.jsx:267
+#: assets/public/js/wpd-global-doc-booking.js:37749
+msgid "Back to Schedule"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39212
+#: src/js/public/components/DepartmentsSelection.jsx:10
+#: assets/public/js/wpd-global-doc-booking.js:37801
+msgid "Select a department to book a doctor"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39218
+#: src/js/public/components/DepartmentsSelection.jsx:15
+#: assets/public/js/wpd-global-doc-booking.js:37806
+msgid "No Departments Found"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39244
+#: src/js/public/components/DepartmentsSelection.jsx:28
+#: assets/public/js/wpd-global-doc-booking.js:37819
+msgid "Doctors available"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39297
+#: src/js/public/components/DoctorSelection.jsx:8
+#: assets/public/js/wpd-global-doc-booking.js:37839
+msgid "Choose from our qualified"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39297
+#: src/js/public/components/DoctorSelection.jsx:8
+#: assets/public/js/wpd-global-doc-booking.js:37839
+msgid "specialists"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39308
+#: src/js/public/components/DoctorSelection.jsx:17
+#: assets/public/js/wpd-global-doc-booking.js:37848
+msgid "Back to Departments"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39342
+#: src/js/public/components/DoctorSelection.jsx:44
+#: assets/public/js/wpd-global-doc-booking.js:37875
+msgid "Image Not Available"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39493
+#: src/js/public/components/GlobalDoctorBooking.jsx:41
+#: assets/public/js/wpd-global-doc-booking.js:37958
+msgid "Failed to fetch doctor departments"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39536
+#: src/js/public/components/GlobalDoctorBooking.jsx:62
+#: assets/public/js/wpd-global-doc-booking.js:37979
+msgid "Failed to fetch doctors"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39740
+#: src/js/public/components/ProgressBar.jsx:6
+#: assets/public/js/wpd-global-doc-booking.js:38148
+msgid "Department"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39749
+#: src/js/public/components/ProgressBar.jsx:9
+#: assets/public/js/wpd-global-doc-booking.js:38151
+msgid "Details"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39812
+#: src/js/public/components/ScheduleSelection.jsx:8
+#: assets/public/js/wpd-global-doc-booking.js:38190
+msgid "Select Schedule"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39815
+#: src/js/public/components/ScheduleSelection.jsx:9
+#: assets/public/js/wpd-global-doc-booking.js:38191
+msgid "Select your preferred appointment time with"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39826
+#: src/js/public/components/ScheduleSelection.jsx:18
+#: assets/public/js/wpd-global-doc-booking.js:38200
+msgid "Back to Doctors"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39928
+#: src/js/public/components/SuccessMessage.jsx:18
+#: assets/public/js/wpd-global-doc-booking.js:38284
+msgid "Booking Confirmed!"
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39931
+#: src/js/public/components/SuccessMessage.jsx:20
+#: assets/public/js/wpd-global-doc-booking.js:38286
+msgid "Thank You! Your appointment has been successfully scheduled."
+msgstr ""
+
+#: assets/public/js/wpd-global-doc-booking.js:39936
+#: src/js/public/components/SuccessMessage.jsx:24
+#: assets/public/js/wpd-global-doc-booking.js:38290
+msgid "Appointment Details:"
+msgstr ""
+
+#: src/js/public/components/PaymentForm.jsx:129
+msgid "Card Number *"
+msgstr ""
+
+#: src/js/public/components/PaymentForm.jsx:139
+msgid "Expiry Date *"
+msgstr ""
+
+#: src/js/public/components/PaymentForm.jsx:148
+msgid "CVC *"
+msgstr ""
+
+#: src/js/public/components/PaymentForm.jsx:174
+msgid "Processing Payment... "
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:102835
+#: assets/admin/js/wpd-doc-booker-admin.js:135044
+#: assets/admin/js/wpd-settings-page.js:110129
+msgid "Payment Status"
+msgstr ""
+
+#: assets/admin/js/wpd-booking-management.js:102842
+#: assets/admin/js/wpd-doc-booker-admin.js:135051
+#: assets/admin/js/wpd-settings-page.js:110136
+msgid "Amount Paid"
+msgstr ""
