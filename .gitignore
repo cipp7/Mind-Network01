@@ -1,0 +1,38 @@
+# WordPress core-ish files
+advanced-cache.php
+index.php
+
+# Cache folders
+cache/
+et-cache/
+wpo-cache/
+
+# Uploads (never version)
+uploads/
+
+# MU plugins (usually env-specific)
+mu-plugins/
+
+# Ignore all plugins except custom ones
+plugins/*
+!plugins/your-custom-plugin/
+
+# Ignore all themes except custom ones
+themes/*
+!themes/your-custom-theme/
+
+# Node / build
+node_modules/
+dist/
+build/
+
+# Logs & env
+*.log
+.env
+
+# Editor junk
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
