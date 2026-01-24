@@ -1,0 +1,74 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.admin-booking-table-wrapper {
+  font-family: "Segoe UI", sans-serif;
+  padding: 20px;
+  background-color: #f4f6f8;
+  border-radius: 12px;
+  overflow-x: auto;
+}
+
+.admin-booking-table-wrapper h2 {
+  color: #1f2937;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+table.admin-booking-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+table.admin-booking-table th,
+table.admin-booking-table td {
+  padding: 12px 16px;
+  text-align: center;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+table.admin-booking-table th {
+  background-color: #1f2937;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+table.admin-booking-table tr:nth-child(even) {
+  background-color: #f9fafb;
+}
+
+table.admin-booking-table tr:hover {
+  background-color: #eef2ff;
+  transition: background 0.3s ease;
+}
+
+.status-badge,
+.present-status-badge {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.status-approved {
+  background-color: #10b981;
+}
+
+.status-empty {
+  background-color: #9ca3af;
+}
+
+.present-upcoming {
+  background-color: #3b82f6;
+}
+
+.present-expired {
+  background-color: #ef4444;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

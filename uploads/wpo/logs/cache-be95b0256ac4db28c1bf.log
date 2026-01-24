@@ -1,0 +1,54 @@
+[2025-07-07 09:59:09 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-list-page/ has been purged, triggered by action: save_post 
+[2025-07-07 10:01:14 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-list-page/ has been purged, triggered by action: save_post 
+[2025-07-07 10:04:31 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-list-page/ has been purged, triggered by action: save_post 
+[2025-07-07 10:08:25 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-07 10:15:42 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-07 10:16:38 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-07 10:20:47 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-07 10:21:17 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-07 10:22:22 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-07 10:24:18 : INFO] - Full Cache Purge triggered by action: customize_save_after 
+[2025-07-07 10:27:25 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-07 10:27:41 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-07 10:29:34 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-07 10:32:29 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-07 10:33:17 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-07 10:33:40 : INFO] - Full Cache Purge triggered by action: customize_save_after 
+[2025-07-07 10:34:05 : INFO] - Full Cache Purge triggered by action: customize_save_after 
+[2025-07-08 16:48:13 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-07-08 16:48:13 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-07-08 16:48:53 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-07-08 16:48:53 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-07-08 16:50:38 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-07-08 16:50:39 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-07-08 16:58:39 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-07-08 16:58:39 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-07-08 17:35:06 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/?post_type=wpddb_doctor&p=351 has been purged, triggered by action: save_post 
+[2025-07-08 17:35:06 : INFO] - Cache for archive page associated with post_type: wpddb_doctor and Title: "Auto Draft" has been purged, triggered by action: save_post 
+[2025-07-08 17:37:03 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/?post_type=wpddb_doctor&p=353 has been purged, triggered by action: save_post 
+[2025-07-08 17:37:03 : INFO] - Cache for archive page associated with post_type: wpddb_doctor and Title: "Auto Draft" has been purged, triggered by action: save_post 
+[2025-07-08 18:03:05 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-08 18:53:22 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/doctor-registration/ has been purged, triggered by action: save_post 
+[2025-07-11 09:04:18 : INFO] - Pruning the Cache log file 
+[2025-07-12 06:54:16 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/?p=356 has been purged, triggered by action: save_post 
+[2025-07-12 06:54:16 : INFO] - Cache for previous post (with URL: https://newapp2025.shrradhasidhwani.com/hello-world/) adjacent to post with id: 356 has been purged, triggered by action: save_post 
+[2025-07-12 06:54:16 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-07-12 14:05:42 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-12 14:07:21 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/patient-details/ has been purged, triggered by action: save_post 
+[2025-07-13 09:43:18 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/?page_id=359 has been purged, triggered by action: save_post 
+[2025-07-13 09:44:02 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/user-metadata/ has been purged, triggered by action: save_post 
+[2025-07-13 09:47:30 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/user-metadata/ has been purged, triggered by action: save_post 
+[2025-07-14 15:07:24 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-14 15:07:24 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/our_doctor/dr-sneha-rathi/ has been purged, triggered by action: save_post 
+[2025-07-14 15:07:24 : INFO] - Cache for archive page associated with post_type: wpddb_doctor and Title: "Dr. Shrradha" has been purged, triggered by action: save_post 
+[2025-07-14 15:07:38 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/our_doctor/dr-sneha-rathi/ has been purged, triggered by action: save_post 
+[2025-07-14 15:07:38 : INFO] - Cache for archive page associated with post_type: wpddb_doctor and Title: "Dr. Shrradha" has been purged, triggered by action: save_post 
+[2025-07-14 15:07:57 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/our_doctor/dr-shrradha/ has been purged, triggered by action: save_post 
+[2025-07-14 15:07:57 : INFO] - Cache for archive page associated with post_type: wpddb_doctor and Title: "Dr. Shrradha" has been purged, triggered by action: save_post 
+[2025-07-14 15:49:58 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/user-metadata/ has been purged, triggered by action: save_post 
+[2025-07-14 15:52:19 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/user-metadata/ has been purged, triggered by action: save_post 
+[2025-07-14 16:22:43 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/user-metadata/ has been purged, triggered by action: save_post 
+[2025-07-15 15:29:51 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/?post_type=wpddb_doctor&p=361 has been purged, triggered by action: save_post 
+[2025-07-15 15:29:51 : INFO] - Cache for archive page associated with post_type: wpddb_doctor and Title: "Auto Draft" has been purged, triggered by action: save_post 
+[2025-07-15 15:31:48 : INFO] - Cache for URL: https://newapp2025.shrradhasidhwani.com/our_doctor/gauri-datwani/ has been purged, triggered by action: save_post 
+[2025-07-15 15:31:48 : INFO] - Cache for archive page associated with post_type: wpddb_doctor and Title: "Gauri Datwani" has been purged, triggered by action: save_post 

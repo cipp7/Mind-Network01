@@ -1,0 +1,442 @@
+[2025-05-16 04:30:56 : INFO] - Re_Smush_It_Task with attachment ID : 14, autocreated on : May 16, 2025 04:30:56 
+[2025-05-16 04:30:59 : INFO] - Re_Smush_It_Task with attachment ID : 15, autocreated on : May 16, 2025 04:30:59 
+[2025-05-16 04:31:01 : INFO] - Re_Smush_It_Task with attachment ID : 16, autocreated on : May 16, 2025 04:31:01 
+[2025-05-16 04:31:02 : INFO] - Re_Smush_It_Task with attachment ID : 17, autocreated on : May 16, 2025 04:31:02 
+[2025-05-16 04:31:02 : INFO] - Re_Smush_It_Task with attachment ID : 18, autocreated on : May 16, 2025 04:31:02 
+[2025-05-16 04:31:05 : INFO] - Re_Smush_It_Task with attachment ID : 19, autocreated on : May 16, 2025 04:31:05 
+[2025-05-16 04:31:05 : INFO] - Re_Smush_It_Task with attachment ID : 20, autocreated on : May 16, 2025 04:31:05 
+[2025-05-16 04:31:05 : INFO] - Re_Smush_It_Task with attachment ID : 21, autocreated on : May 16, 2025 04:31:05 
+[2025-05-16 04:31:05 : INFO] - Re_Smush_It_Task with attachment ID : 22, autocreated on : May 16, 2025 04:31:05 
+[2025-05-16 04:31:05 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : May 16, 2025 04:31:05 
+[2025-05-16 04:31:08 : INFO] - Re_Smush_It_Task with attachment ID : 24, autocreated on : May 16, 2025 04:31:08 
+[2025-05-16 04:31:10 : INFO] - Re_Smush_It_Task with attachment ID : 25, autocreated on : May 16, 2025 04:31:10 
+[2025-05-16 04:31:10 : INFO] - Re_Smush_It_Task with attachment ID : 26, autocreated on : May 16, 2025 04:31:10 
+[2025-05-16 04:31:11 : INFO] - Re_Smush_It_Task with attachment ID : 27, autocreated on : May 16, 2025 04:31:10 
+[2025-05-16 04:31:11 : INFO] - Re_Smush_It_Task with attachment ID : 28, autocreated on : May 16, 2025 04:31:11 
+[2025-05-16 04:31:15 : INFO] - Re_Smush_It_Task with attachment ID : 29, autocreated on : May 16, 2025 04:31:15 
+[2025-05-16 04:31:15 : INFO] - Re_Smush_It_Task with attachment ID : 30, autocreated on : May 16, 2025 04:31:15 
+[2025-05-16 04:31:15 : INFO] - Re_Smush_It_Task with attachment ID : 31, autocreated on : May 16, 2025 04:31:15 
+[2025-05-16 04:31:15 : INFO] - Re_Smush_It_Task with attachment ID : 32, autocreated on : May 16, 2025 04:31:15 
+[2025-05-16 04:31:15 : INFO] - Re_Smush_It_Task with attachment ID : 33, autocreated on : May 16, 2025 04:31:15 
+[2025-05-16 04:31:19 : INFO] - Re_Smush_It_Task with attachment ID : 34, autocreated on : May 16, 2025 04:31:19 
+[2025-05-16 04:31:19 : INFO] - Re_Smush_It_Task with attachment ID : 35, autocreated on : May 16, 2025 04:31:19 
+[2025-05-16 04:31:20 : INFO] - Re_Smush_It_Task with attachment ID : 36, autocreated on : May 16, 2025 04:31:20 
+[2025-05-16 04:31:20 : INFO] - Re_Smush_It_Task with attachment ID : 37, autocreated on : May 16, 2025 04:31:20 
+[2025-05-16 04:31:20 : INFO] - Re_Smush_It_Task with attachment ID : 38, autocreated on : May 16, 2025 04:31:20 
+[2025-05-16 04:31:23 : INFO] - Re_Smush_It_Task with attachment ID : 39, autocreated on : May 16, 2025 04:31:23 
+[2025-05-16 04:31:26 : INFO] - Re_Smush_It_Task with attachment ID : 40, autocreated on : May 16, 2025 04:31:26 
+[2025-05-16 04:35:58 : INFO] - A total of 27 tasks of type smush found and will be processed in this iteration 
+[2025-05-16 04:35:58 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-05-16 04:35:58 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-05-16 04:35:58 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2025-05-16 04:35:58 : INFO] - Re_Smush_It_Task with attachment ID : 14, autocreated on : May 16, 2025 04:30:56 
+[2025-05-16 04:35:58 : INFO] - File: telehealth-58.png, Compression quality: 92 
+[2025-05-16 04:36:00 : INFO] - Backing up the original image - 2025/05/telehealth-58-updraft-pre-smush-original.png 
+[2025-05-16 04:36:10 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-58.png.The file was compressed from 8.39 KB to 8.38 KB, saving 0.17 percent, using WP-Optimize 
+[2025-05-16 04:36:10 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2025-05-16 04:36:10 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2025-05-16 04:36:10 : INFO] - Re_Smush_It_Task with attachment ID : 15, autocreated on : May 16, 2025 04:30:59 
+[2025-05-16 04:36:10 : INFO] - File: telehealth-48.jpg, Compression quality: 92 
+[2025-05-16 04:36:14 : INFO] - Backing up the original image - 2025/05/telehealth-48-updraft-pre-smush-original.jpg 
+[2025-05-16 04:36:34 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-48.jpg.The file was compressed from 143.29 KB to 143.29 KB, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:36:34 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2025-05-16 04:36:34 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2025-05-16 04:36:34 : INFO] - Re_Smush_It_Task with attachment ID : 16, autocreated on : May 16, 2025 04:31:01 
+[2025-05-16 04:36:34 : INFO] - File: telehealth-29.png, Compression quality: 92 
+[2025-05-16 04:36:35 : INFO] - Backing up the original image - 2025/05/telehealth-29-updraft-pre-smush-original.png 
+[2025-05-16 04:36:36 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-29.png.The file was compressed from 3.48 KB to 2.74 KB, saving 21.24 percent, using WP-Optimize 
+[2025-05-16 04:36:36 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2025-05-16 04:36:36 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2025-05-16 04:36:36 : INFO] - Re_Smush_It_Task with attachment ID : 17, autocreated on : May 16, 2025 04:31:02 
+[2025-05-16 04:36:36 : INFO] - File: tele-health-care_icon_01-1.png, Compression quality: 92 
+[2025-05-16 04:36:37 : INFO] - Backing up the original image - 2025/05/tele-health-care_icon_01-1-updraft-pre-smush-original.png 
+[2025-05-16 04:36:37 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/tele-health-care_icon_01-1.png.The file was compressed from 805 bytes to 805 bytes, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:36:37 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2025-05-16 04:36:37 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2025-05-16 04:36:37 : INFO] - Re_Smush_It_Task with attachment ID : 18, autocreated on : May 16, 2025 04:31:02 
+[2025-05-16 04:36:37 : INFO] - File: tele-health-care_icon_02-1.png, Compression quality: 92 
+[2025-05-16 04:36:38 : INFO] - Backing up the original image - 2025/05/tele-health-care_icon_02-1-updraft-pre-smush-original.png 
+[2025-05-16 04:36:38 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/tele-health-care_icon_02-1.png.The file was compressed from 641 bytes to 641 bytes, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:36:38 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2025-05-16 04:36:38 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2025-05-16 04:36:38 : INFO] - Re_Smush_It_Task with attachment ID : 19, autocreated on : May 16, 2025 04:31:05 
+[2025-05-16 04:36:38 : INFO] - File: tele-health-care_icon_03-1.png, Compression quality: 92 
+[2025-05-16 04:36:38 : INFO] - Backing up the original image - 2025/05/tele-health-care_icon_03-1-updraft-pre-smush-original.png 
+[2025-05-16 04:36:38 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/tele-health-care_icon_03-1.png.The file was compressed from 647 bytes to 647 bytes, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:36:38 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2025-05-16 04:36:38 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2025-05-16 04:36:38 : INFO] - Re_Smush_It_Task with attachment ID : 20, autocreated on : May 16, 2025 04:31:05 
+[2025-05-16 04:36:38 : INFO] - File: tele-health-care_icon_04-1.png, Compression quality: 92 
+[2025-05-16 04:36:39 : INFO] - Backing up the original image - 2025/05/tele-health-care_icon_04-1-updraft-pre-smush-original.png 
+[2025-05-16 04:36:39 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/tele-health-care_icon_04-1.png.The file was compressed from 846 bytes to 846 bytes, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:36:39 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2025-05-16 04:36:39 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2025-05-16 04:36:39 : INFO] - Re_Smush_It_Task with attachment ID : 21, autocreated on : May 16, 2025 04:31:05 
+[2025-05-16 04:36:39 : INFO] - File: tele-health-care_icon_05-1.png, Compression quality: 92 
+[2025-05-16 04:36:40 : INFO] - Backing up the original image - 2025/05/tele-health-care_icon_05-1-updraft-pre-smush-original.png 
+[2025-05-16 04:36:40 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/tele-health-care_icon_05-1.png.The file was compressed from 620 bytes to 620 bytes, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:36:40 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2025-05-16 04:36:40 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2025-05-16 04:36:40 : INFO] - Re_Smush_It_Task with attachment ID : 22, autocreated on : May 16, 2025 04:31:05 
+[2025-05-16 04:36:40 : INFO] - File: tele-health-care_icon_06-1.png, Compression quality: 92 
+[2025-05-16 04:36:41 : INFO] - Backing up the original image - 2025/05/tele-health-care_icon_06-1-updraft-pre-smush-original.png 
+[2025-05-16 04:36:41 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/tele-health-care_icon_06-1.png.The file was compressed from 726 bytes to 726 bytes, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:36:41 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2025-05-16 04:36:41 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2025-05-16 04:36:41 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : May 16, 2025 04:31:05 
+[2025-05-16 04:36:41 : INFO] - File: telehealth-61.jpg, Compression quality: 92 
+[2025-05-16 04:36:44 : INFO] - Backing up the original image - 2025/05/telehealth-61-updraft-pre-smush-original.jpg 
+[2025-05-16 04:36:56 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-61.jpg.The file was compressed from 65.60 KB to 65.60 KB, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:36:56 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2025-05-16 04:36:56 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2025-05-16 04:36:56 : INFO] - Re_Smush_It_Task with attachment ID : 24, autocreated on : May 16, 2025 04:31:08 
+[2025-05-16 04:36:56 : INFO] - File: telehealth-60.jpg, Compression quality: 92 
+[2025-05-16 04:36:59 : INFO] - Backing up the original image - 2025/05/telehealth-60-updraft-pre-smush-original.jpg 
+[2025-05-16 04:37:15 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-60.jpg.The file was compressed from 65.90 KB to 65.90 KB, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:37:15 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2025-05-16 04:37:15 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2025-05-16 04:37:15 : INFO] - Re_Smush_It_Task with attachment ID : 25, autocreated on : May 16, 2025 04:31:10 
+[2025-05-16 04:37:15 : INFO] - File: telehealth-28.png, Compression quality: 92 
+[2025-05-16 04:37:16 : INFO] - Backing up the original image - 2025/05/telehealth-28-updraft-pre-smush-original.png 
+[2025-05-16 04:37:16 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-28.png.The file was compressed from 3.57 KB to 2.80 KB, saving 21.53 percent, using WP-Optimize 
+[2025-05-16 04:37:16 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2025-05-16 04:37:16 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2025-05-16 04:37:16 : INFO] - Re_Smush_It_Task with attachment ID : 26, autocreated on : May 16, 2025 04:31:10 
+[2025-05-16 04:37:16 : INFO] - File: telehealth-34.png, Compression quality: 92 
+[2025-05-16 04:37:17 : INFO] - Backing up the original image - 2025/05/telehealth-34-updraft-pre-smush-original.png 
+[2025-05-16 04:37:18 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-34.png.The file was compressed from 3.57 KB to 2.82 KB, saving 20.98 percent, using WP-Optimize 
+[2025-05-16 04:37:18 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2025-05-16 04:37:18 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2025-05-16 04:37:18 : INFO] - Re_Smush_It_Task with attachment ID : 27, autocreated on : May 16, 2025 04:31:10 
+[2025-05-16 04:37:18 : INFO] - File: telehealth-62.jpg, Compression quality: 92 
+[2025-05-16 04:37:21 : INFO] - Backing up the original image - 2025/05/telehealth-62-updraft-pre-smush-original.jpg 
+[2025-05-16 04:37:37 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-62.jpg.The file was compressed from 76.12 KB to 76.12 KB, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:37:37 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2025-05-16 04:37:37 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2025-05-16 04:37:37 : INFO] - Re_Smush_It_Task with attachment ID : 28, autocreated on : May 16, 2025 04:31:11 
+[2025-05-16 04:37:37 : INFO] - File: telehealth-icon_06.png, Compression quality: 92 
+[2025-05-16 04:37:37 : INFO] - Backing up the original image - 2025/05/telehealth-icon_06-updraft-pre-smush-original.png 
+[2025-05-16 04:37:37 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-icon_06.png.The file was compressed from 991 bytes to 991 bytes, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:37:37 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2025-05-16 04:37:37 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2025-05-16 04:37:37 : INFO] - Re_Smush_It_Task with attachment ID : 29, autocreated on : May 16, 2025 04:31:15 
+[2025-05-16 04:37:37 : INFO] - File: telehealth-icon_17.png, Compression quality: 92 
+[2025-05-16 04:37:38 : INFO] - Backing up the original image - 2025/05/telehealth-icon_17-updraft-pre-smush-original.png 
+[2025-05-16 04:37:38 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-icon_17.png.The file was compressed from 632 bytes to 632 bytes, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:37:38 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2025-05-16 04:37:38 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2025-05-16 04:37:38 : INFO] - Re_Smush_It_Task with attachment ID : 30, autocreated on : May 16, 2025 04:31:15 
+[2025-05-16 04:37:38 : INFO] - File: telehealth-icon_16.png, Compression quality: 92 
+[2025-05-16 04:37:39 : INFO] - Backing up the original image - 2025/05/telehealth-icon_16-updraft-pre-smush-original.png 
+[2025-05-16 04:37:39 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-icon_16.png.The file was compressed from 717 bytes to 717 bytes, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:37:39 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2025-05-16 04:37:39 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2025-05-16 04:37:39 : INFO] - Re_Smush_It_Task with attachment ID : 31, autocreated on : May 16, 2025 04:31:15 
+[2025-05-16 04:37:39 : INFO] - File: telehealth-icon_15.png, Compression quality: 92 
+[2025-05-16 04:37:40 : INFO] - Backing up the original image - 2025/05/telehealth-icon_15-updraft-pre-smush-original.png 
+[2025-05-16 04:37:40 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-icon_15.png.The file was compressed from 1.36 KB to 1.36 KB, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:37:40 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2025-05-16 04:37:40 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2025-05-16 04:37:40 : INFO] - Re_Smush_It_Task with attachment ID : 32, autocreated on : May 16, 2025 04:31:15 
+[2025-05-16 04:37:40 : INFO] - File: telehealth-icon_14.png, Compression quality: 92 
+[2025-05-16 04:37:41 : INFO] - Backing up the original image - 2025/05/telehealth-icon_14-updraft-pre-smush-original.png 
+[2025-05-16 04:37:41 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-icon_14.png.The file was compressed from 1.51 KB to 1.51 KB, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:37:41 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2025-05-16 04:37:41 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2025-05-16 04:37:41 : INFO] - Re_Smush_It_Task with attachment ID : 33, autocreated on : May 16, 2025 04:31:15 
+[2025-05-16 04:37:41 : INFO] - File: telehealth-icon_13-1.png, Compression quality: 92 
+[2025-05-16 04:37:42 : INFO] - Backing up the original image - 2025/05/telehealth-icon_13-1-updraft-pre-smush-original.png 
+[2025-05-16 04:37:42 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-icon_13-1.png.The file was compressed from 527 bytes to 527 bytes, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:37:42 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2025-05-16 04:37:42 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2025-05-16 04:37:42 : INFO] - Re_Smush_It_Task with attachment ID : 34, autocreated on : May 16, 2025 04:31:19 
+[2025-05-16 04:37:42 : INFO] - File: telehealth-33.png, Compression quality: 92 
+[2025-05-16 04:37:43 : INFO] - Backing up the original image - 2025/05/telehealth-33-updraft-pre-smush-original.png 
+[2025-05-16 04:37:44 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-33.png.The file was compressed from 3.54 KB to 2.82 KB, saving 20.3 percent, using WP-Optimize 
+[2025-05-16 04:37:44 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2025-05-16 04:37:44 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2025-05-16 04:37:44 : INFO] - Re_Smush_It_Task with attachment ID : 35, autocreated on : May 16, 2025 04:31:19 
+[2025-05-16 04:37:44 : INFO] - File: telehealth-63.jpg, Compression quality: 92 
+[2025-05-16 04:37:46 : INFO] - Backing up the original image - 2025/05/telehealth-63-updraft-pre-smush-original.jpg 
+[2025-05-16 04:37:58 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-63.jpg.The file was compressed from 48.98 KB to 48.98 KB, saving 0 percent, using WP-Optimize 
+[2025-05-16 04:37:58 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2025-05-16 04:37:58 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2025-05-16 04:37:58 : INFO] - Re_Smush_It_Task with attachment ID : 36, autocreated on : May 16, 2025 04:31:20 
+[2025-05-16 04:37:58 : INFO] - File: portrait-07.jpg, Compression quality: 92 
+[2025-05-16 04:38:00 : INFO] - Backing up the original image - 2025/05/portrait-07-updraft-pre-smush-original.jpg 
+[2025-05-16 04:38:09 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/portrait-07.jpg.The file was compressed from 82.17 KB to 59.51 KB, saving 27.57 percent, using WP-Optimize 
+[2025-05-16 04:38:09 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2025-05-16 04:38:09 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2025-05-16 04:38:09 : INFO] - Re_Smush_It_Task with attachment ID : 37, autocreated on : May 16, 2025 04:31:20 
+[2025-05-16 04:38:09 : INFO] - File: portrait-12.jpg, Compression quality: 92 
+[2025-05-16 04:38:12 : INFO] - Backing up the original image - 2025/05/portrait-12-updraft-pre-smush-original.jpg 
+[2025-05-16 04:38:20 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/portrait-12.jpg.The file was compressed from 150.90 KB to 46.50 KB, saving 69.18 percent, using WP-Optimize 
+[2025-05-16 04:38:20 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2025-05-16 04:38:20 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2025-05-16 04:38:20 : INFO] - Re_Smush_It_Task with attachment ID : 38, autocreated on : May 16, 2025 04:31:20 
+[2025-05-16 04:38:20 : INFO] - File: portrait-04.jpg, Compression quality: 92 
+[2025-05-16 04:38:22 : INFO] - Backing up the original image - 2025/05/portrait-04-updraft-pre-smush-original.jpg 
+[2025-05-16 04:38:30 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/portrait-04.jpg.The file was compressed from 70.82 KB to 52.84 KB, saving 25.4 percent, using WP-Optimize 
+[2025-05-16 04:38:30 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2025-05-16 04:38:30 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2025-05-16 04:38:30 : INFO] - Re_Smush_It_Task with attachment ID : 39, autocreated on : May 16, 2025 04:31:23 
+[2025-05-16 04:38:30 : INFO] - File: telehealth-38.png, Compression quality: 92 
+[2025-05-16 04:38:33 : INFO] - Backing up the original image - 2025/05/telehealth-38-updraft-pre-smush-original.png 
+[2025-05-16 04:38:41 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/telehealth-38.png.The file was compressed from 284.85 KB to 85.10 KB, saving 70.13 percent, using WP-Optimize 
+[2025-05-16 04:38:41 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2025-05-16 04:38:41 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2025-05-16 04:38:41 : INFO] - Re_Smush_It_Task with attachment ID : 40, autocreated on : May 16, 2025 04:31:26 
+[2025-05-16 04:38:41 : INFO] - File: divi-logo-mark-black-e1612232721413.png, Compression quality: 92 
+[2025-05-16 04:38:42 : INFO] - Backing up the original image - 2025/05/divi-logo-mark-black-e1612232721413-updraft-pre-smush-original.png 
+[2025-05-16 04:38:42 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/divi-logo-mark-black-e1612232721413.png.The file was compressed from 1.26 KB to 1.13 KB, saving 10.21 percent, using WP-Optimize 
+[2025-05-16 04:38:42 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2025-05-16 04:38:42 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-05-16 04:38:42 : INFO] - Successfully processed the queue (smush). 27 tasks were processed out of 27. 
+[2025-05-16 04:38:42 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-05-16 04:38:42 : INFO] - Cleaning up tasks of type (smush). A total of 27 tasks will be deleted. 
+[2025-05-17 00:41:54 : INFO] - Re_Smush_It_Task with attachment ID : 46, autocreated on : May 17, 2025 12:41:54 
+[2025-05-17 00:47:03 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-05-17 00:47:03 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-05-17 00:47:03 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-05-17 00:47:03 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2025-05-17 00:47:03 : INFO] - Re_Smush_It_Task with attachment ID : 46, autocreated on : May 17, 2025 12:41:54 
+[2025-05-17 00:47:03 : INFO] - File: Gray-Mind-Split-Mental-Health-Psychiatry-Clinic-Logo.png, Compression quality: 92 
+[2025-05-17 00:47:04 : INFO] - Backing up the original image - 2025/05/Gray-Mind-Split-Mental-Health-Psychiatry-Clinic-Logo-updraft-pre-smush-original.png 
+[2025-05-17 00:47:08 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/Gray-Mind-Split-Mental-Health-Psychiatry-Clinic-Logo.png.The file was compressed from 31.56 KB to 13.26 KB, saving 57.99 percent, using WP-Optimize 
+[2025-05-17 00:47:08 : INFO] - Completed processing task with ID : 50, and type 'smush' 
+[2025-05-17 00:47:08 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-05-17 00:47:08 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-05-17 00:47:08 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-05-17 00:47:08 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-05-17 00:48:04 : INFO] - Re_Smush_It_Task with attachment ID : 47, autocreated on : May 17, 2025 12:48:04 
+[2025-05-17 00:57:03 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-05-17 00:57:03 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-05-17 00:57:03 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-05-17 00:57:03 : INFO] - Processing task with ID : 51, and type 'smush' 
+[2025-05-17 00:57:03 : INFO] - Re_Smush_It_Task with attachment ID : 47, autocreated on : May 17, 2025 12:48:04 
+[2025-05-17 00:57:03 : INFO] - File: 1232111.png, Compression quality: 92 
+[2025-05-17 00:57:05 : INFO] - Backing up the original image - 2025/05/1232111-updraft-pre-smush-original.png 
+[2025-05-17 00:57:10 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/1232111.png.The file was compressed from 39.59 KB to 16.09 KB, saving 59.36 percent, using WP-Optimize 
+[2025-05-17 00:57:10 : INFO] - Completed processing task with ID : 51, and type 'smush' 
+[2025-05-17 00:57:10 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-05-17 00:57:10 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-05-17 00:57:10 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-05-17 00:57:10 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-05-17 01:26:32 : INFO] - Re_Smush_It_Task with attachment ID : 48, autocreated on : May 17, 2025 01:26:32 
+[2025-05-17 01:32:30 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-05-17 01:32:30 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-05-17 01:32:30 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-05-17 01:32:30 : INFO] - Processing task with ID : 52, and type 'smush' 
+[2025-05-17 01:32:30 : INFO] - Re_Smush_It_Task with attachment ID : 48, autocreated on : May 17, 2025 01:26:32 
+[2025-05-17 01:32:30 : INFO] - File: 5-step.jpg, Compression quality: 92 
+[2025-05-17 01:32:33 : INFO] - Backing up the original image - 2025/05/5-step-updraft-pre-smush-original.jpg 
+[2025-05-17 01:32:54 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/5-step.jpg.The file was compressed from 79.12 KB to 63.45 KB, saving 19.8 percent, using WP-Optimize 
+[2025-05-17 01:32:54 : INFO] - Completed processing task with ID : 52, and type 'smush' 
+[2025-05-17 01:32:54 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-05-17 01:32:54 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-05-17 01:32:54 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-05-17 01:32:54 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-05-17 01:53:57 : INFO] - Re_Smush_It_Task with attachment ID : 70, autocreated on : May 17, 2025 01:53:57 
+[2025-05-17 01:55:27 : INFO] - Re_Smush_It_Task with attachment ID : 72, autocreated on : May 17, 2025 01:55:27 
+[2025-05-17 01:57:43 : INFO] - Re_Smush_It_Task with attachment ID : 74, autocreated on : May 17, 2025 01:57:43 
+[2025-05-17 01:58:56 : INFO] - Re_Smush_It_Task with attachment ID : 76, autocreated on : May 17, 2025 01:58:56 
+[2025-05-17 01:59:06 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2025-05-17 01:59:06 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-05-17 01:59:06 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-05-17 01:59:06 : INFO] - Processing task with ID : 111, and type 'smush' 
+[2025-05-17 01:59:06 : INFO] - Re_Smush_It_Task with attachment ID : 70, autocreated on : May 17, 2025 01:53:57 
+[2025-05-17 01:59:06 : INFO] - File: Colorful-Brain-Human-Technology-Logo.png, Compression quality: 92 
+[2025-05-17 01:59:07 : INFO] - Backing up the original image - 2025/05/Colorful-Brain-Human-Technology-Logo-updraft-pre-smush-original.png 
+[2025-05-17 01:59:12 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/Colorful-Brain-Human-Technology-Logo.png.The file was compressed from 21.67 KB to 8.63 KB, saving 60.16 percent, using WP-Optimize 
+[2025-05-17 01:59:12 : INFO] - Completed processing task with ID : 111, and type 'smush' 
+[2025-05-17 01:59:12 : INFO] - Processing task with ID : 116, and type 'smush' 
+[2025-05-17 01:59:12 : INFO] - Re_Smush_It_Task with attachment ID : 72, autocreated on : May 17, 2025 01:55:27 
+[2025-05-17 01:59:12 : INFO] - File: Colorful-Brain-Human-Technology-Logo-1.png, Compression quality: 92 
+[2025-05-17 01:59:13 : INFO] - Backing up the original image - 2025/05/Colorful-Brain-Human-Technology-Logo-1-updraft-pre-smush-original.png 
+[2025-05-17 01:59:15 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/Colorful-Brain-Human-Technology-Logo-1.png.The file was compressed from 21.16 KB to 8.45 KB, saving 60.05 percent, using WP-Optimize 
+[2025-05-17 01:59:15 : INFO] - Completed processing task with ID : 116, and type 'smush' 
+[2025-05-17 01:59:15 : INFO] - Processing task with ID : 120, and type 'smush' 
+[2025-05-17 01:59:15 : INFO] - Re_Smush_It_Task with attachment ID : 74, autocreated on : May 17, 2025 01:57:43 
+[2025-05-17 01:59:15 : INFO] - File: logo-mind-newtorks.png, Compression quality: 92 
+[2025-05-17 01:59:16 : INFO] - Backing up the original image - 2025/05/logo-mind-newtorks-updraft-pre-smush-original.png 
+[2025-05-17 01:59:17 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/logo-mind-newtorks.png.The file was compressed from 10.28 KB to 5.02 KB, saving 51.19 percent, using WP-Optimize 
+[2025-05-17 01:59:17 : INFO] - Completed processing task with ID : 120, and type 'smush' 
+[2025-05-17 01:59:17 : INFO] - Processing task with ID : 121, and type 'smush' 
+[2025-05-17 01:59:17 : INFO] - Re_Smush_It_Task with attachment ID : 76, autocreated on : May 17, 2025 01:58:56 
+[2025-05-17 01:59:17 : INFO] - File: logo-mind_newtorks-removebg-preview.png, Compression quality: 92 
+[2025-05-17 01:59:18 : INFO] - Backing up the original image - 2025/05/logo-mind_newtorks-removebg-preview-updraft-pre-smush-original.png 
+[2025-05-17 01:59:19 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/logo-mind_newtorks-removebg-preview.png.The file was compressed from 26.09 KB to 7.14 KB, saving 72.64 percent, using WP-Optimize 
+[2025-05-17 01:59:19 : INFO] - Completed processing task with ID : 121, and type 'smush' 
+[2025-05-17 01:59:19 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-05-17 01:59:19 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2025-05-17 01:59:19 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-05-17 01:59:19 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2025-05-17 02:03:02 : INFO] - Re_Smush_It_Task with attachment ID : 78, autocreated on : May 17, 2025 02:03:02 
+[2025-05-17 02:50:57 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-05-17 02:50:57 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-05-17 02:50:57 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-05-17 02:50:57 : INFO] - Processing task with ID : 124, and type 'smush' 
+[2025-05-17 02:50:57 : INFO] - Re_Smush_It_Task with attachment ID : 78, autocreated on : May 17, 2025 02:03:02 
+[2025-05-17 02:50:57 : INFO] - File: cropped-logo-mind_newtorks-removebg-preview.png, Compression quality: 92 
+[2025-05-17 02:50:59 : INFO] - Backing up the original image - 2025/05/cropped-logo-mind_newtorks-removebg-preview-updraft-pre-smush-original.png 
+[2025-05-17 02:51:13 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/cropped-logo-mind_newtorks-removebg-preview.png.The file was compressed from 52.93 KB to 45.72 KB, saving 13.63 percent, using WP-Optimize 
+[2025-05-17 02:51:13 : INFO] - Completed processing task with ID : 124, and type 'smush' 
+[2025-05-17 02:51:13 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-05-17 02:51:13 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-05-17 02:51:13 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-05-17 02:51:13 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-05-30 05:49:27 : INFO] - Re_Smush_It_Task with attachment ID : 90, autocreated on : May 30, 2025 05:49:27 
+[2025-05-30 05:54:40 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-05-30 05:54:40 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-05-30 05:54:40 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-05-30 05:54:40 : INFO] - Processing task with ID : 204, and type 'smush' 
+[2025-05-30 05:54:40 : INFO] - Re_Smush_It_Task with attachment ID : 90, autocreated on : May 30, 2025 05:49:27 
+[2025-05-30 05:54:40 : INFO] - File: 19742-scaled.jpg, Compression quality: 92 
+[2025-05-30 05:54:46 : INFO] - Backing up the original image - 2025/05/19742-scaled-updraft-pre-smush-original.jpg 
+[2025-05-30 05:55:29 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/05/19742-scaled.jpg.The file was compressed from 300.03 KB to 282.42 KB, saving 5.87 percent, using WP-Optimize 
+[2025-05-30 05:55:29 : INFO] - Completed processing task with ID : 204, and type 'smush' 
+[2025-05-30 05:55:29 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-05-30 05:55:29 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-05-30 05:55:29 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-05-30 05:55:29 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-06-21 09:18:15 : INFO] - Re_Smush_It_Task with attachment ID : 310, autocreated on : June 21, 2025 09:18:15 
+[2025-06-21 09:22:05 : INFO] - Re_Smush_It_Task with attachment ID : 312, autocreated on : June 21, 2025 09:22:05 
+[2025-06-21 09:23:34 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-06-21 09:23:34 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-06-21 09:23:34 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-06-21 09:23:34 : INFO] - Processing task with ID : 1559, and type 'smush' 
+[2025-06-21 09:23:34 : INFO] - Re_Smush_It_Task with attachment ID : 310, autocreated on : June 21, 2025 09:18:15 
+[2025-06-21 09:23:34 : INFO] - File: Clear-Skin.png, Compression quality: 92 
+[2025-06-21 09:23:35 : INFO] - Backing up the original image - 2025/06/Clear-Skin-updraft-pre-smush-original.png 
+[2025-06-21 09:23:36 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/06/Clear-Skin.png.The file was compressed from 3.06 KB to 2.87 KB, saving 6.2 percent, using WP-Optimize 
+[2025-06-21 09:23:36 : INFO] - Completed processing task with ID : 1559, and type 'smush' 
+[2025-06-21 09:23:36 : INFO] - Processing task with ID : 1563, and type 'smush' 
+[2025-06-21 09:23:36 : INFO] - Re_Smush_It_Task with attachment ID : 312, autocreated on : June 21, 2025 09:22:05 
+[2025-06-21 09:23:36 : INFO] - File: Harmony-Womens-Health-Center.png, Compression quality: 92 
+[2025-06-21 09:23:37 : INFO] - Backing up the original image - 2025/06/Harmony-Womens-Health-Center-updraft-pre-smush-original.png 
+[2025-06-21 09:23:38 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/06/Harmony-Womens-Health-Center.png.The file was compressed from 3.65 KB to 3.48 KB, saving 4.73 percent, using WP-Optimize 
+[2025-06-21 09:23:38 : INFO] - Completed processing task with ID : 1563, and type 'smush' 
+[2025-06-21 09:23:38 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-06-21 09:23:38 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-06-21 09:23:38 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-06-21 09:23:38 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-06-21 09:23:40 : INFO] - Re_Smush_It_Task with attachment ID : 313, autocreated on : June 21, 2025 09:23:40 
+[2025-06-21 09:34:46 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-06-21 09:34:46 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-06-21 09:34:46 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-06-21 09:34:46 : INFO] - Processing task with ID : 1567, and type 'smush' 
+[2025-06-21 09:34:46 : INFO] - Re_Smush_It_Task with attachment ID : 313, autocreated on : June 21, 2025 09:23:40 
+[2025-06-21 09:34:46 : INFO] - File: VitalCare-Clinic.png, Compression quality: 92 
+[2025-06-21 09:34:47 : INFO] - Backing up the original image - 2025/06/VitalCare-Clinic-updraft-pre-smush-original.png 
+[2025-06-21 09:34:48 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/06/VitalCare-Clinic.png.The file was compressed from 3.45 KB to 3.29 KB, saving 4.58 percent, using WP-Optimize 
+[2025-06-21 09:34:48 : INFO] - Completed processing task with ID : 1567, and type 'smush' 
+[2025-06-21 09:34:48 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-06-21 09:34:48 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-06-21 09:34:48 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-06-21 09:34:48 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-06-21 10:01:00 : INFO] - Re_Smush_It_Task with attachment ID : 315, autocreated on : June 21, 2025 10:00:59 
+[2025-06-21 10:02:52 : INFO] - Re_Smush_It_Task with attachment ID : 316, autocreated on : June 21, 2025 10:02:52 
+[2025-06-21 10:03:57 : INFO] - Re_Smush_It_Task with attachment ID : 317, autocreated on : June 21, 2025 10:03:57 
+[2025-06-21 10:06:09 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2025-06-21 10:06:09 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-06-21 10:06:09 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-06-21 10:06:09 : INFO] - Processing task with ID : 1571, and type 'smush' 
+[2025-06-21 10:06:09 : INFO] - Re_Smush_It_Task with attachment ID : 315, autocreated on : June 21, 2025 10:00:59 
+[2025-06-21 10:06:09 : INFO] - File: Dr.-Sneha-Rathi.jpg, Compression quality: 92 
+[2025-06-21 10:06:11 : INFO] - Backing up the original image - 2025/06/Dr.-Sneha-Rathi-updraft-pre-smush-original.jpg 
+[2025-06-21 10:06:12 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/06/Dr.-Sneha-Rathi.jpg.The file was compressed from 6.39 KB to 6.39 KB, saving 0 percent, using WP-Optimize 
+[2025-06-21 10:06:12 : INFO] - Completed processing task with ID : 1571, and type 'smush' 
+[2025-06-21 10:06:12 : INFO] - Processing task with ID : 1576, and type 'smush' 
+[2025-06-21 10:06:12 : INFO] - Re_Smush_It_Task with attachment ID : 316, autocreated on : June 21, 2025 10:02:52 
+[2025-06-21 10:06:12 : INFO] - File: Dr.-Anjali-Deshmukh.png, Compression quality: 92 
+[2025-06-21 10:06:13 : INFO] - Backing up the original image - 2025/06/Dr.-Anjali-Deshmukh-updraft-pre-smush-original.png 
+[2025-06-21 10:06:19 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/06/Dr.-Anjali-Deshmukh.png.The file was compressed from 35.90 KB to 34.39 KB, saving 4.19 percent, using WP-Optimize 
+[2025-06-21 10:06:19 : INFO] - Completed processing task with ID : 1576, and type 'smush' 
+[2025-06-21 10:06:19 : INFO] - Processing task with ID : 1580, and type 'smush' 
+[2025-06-21 10:06:19 : INFO] - Re_Smush_It_Task with attachment ID : 317, autocreated on : June 21, 2025 10:03:57 
+[2025-06-21 10:06:19 : INFO] - File: Dr.-Aarav-Mehra.jpg, Compression quality: 92 
+[2025-06-21 10:06:22 : INFO] - Backing up the original image - 2025/06/Dr.-Aarav-Mehra-updraft-pre-smush-original.jpg 
+[2025-06-21 10:06:43 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/06/Dr.-Aarav-Mehra.jpg.The file was compressed from 87.83 KB to 86.87 KB, saving 1.1 percent, using WP-Optimize 
+[2025-06-21 10:06:43 : INFO] - Completed processing task with ID : 1580, and type 'smush' 
+[2025-06-21 10:06:43 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-06-21 10:06:43 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2025-06-21 10:06:43 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-06-21 10:06:43 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-07-07 10:50:29 : INFO] - Re_Smush_It_Task with attachment ID : 347, autocreated on : July 07, 2025 10:50:29 
+[2025-07-07 10:55:50 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-07-07 10:55:50 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-07-07 10:55:50 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-07-07 10:55:50 : INFO] - Processing task with ID : 2158, and type 'smush' 
+[2025-07-07 10:55:50 : INFO] - Re_Smush_It_Task with attachment ID : 347, autocreated on : July 07, 2025 10:50:29 
+[2025-07-07 10:55:50 : INFO] - File: 1749379945_bald-stage.jpeg, Compression quality: 92 
+[2025-07-07 10:55:52 : INFO] - Backing up the original image - 2025/07/1749379945_bald-stage-updraft-pre-smush-original.jpeg 
+[2025-07-07 10:56:02 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/07/1749379945_bald-stage.jpeg.The file was compressed from 29.76 KB to 29.06 KB, saving 2.35 percent, using WP-Optimize 
+[2025-07-07 10:56:02 : INFO] - Completed processing task with ID : 2158, and type 'smush' 
+[2025-07-07 10:56:02 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-07-07 10:56:02 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-07-07 10:56:02 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-07-07 10:56:02 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-07-08 16:34:48 : INFO] - Re_Smush_It_Task with attachment ID : 348, autocreated on : July 08, 2025 04:34:48 
+[2025-07-08 16:40:01 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-07-08 16:40:01 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-07-08 16:40:01 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-07-08 16:40:01 : INFO] - Processing task with ID : 2200, and type 'smush' 
+[2025-07-08 16:40:01 : INFO] - Re_Smush_It_Task with attachment ID : 348, autocreated on : July 08, 2025 04:34:48 
+[2025-07-08 16:40:01 : INFO] - File: 1749379945_bald-stage-1.jpeg, Compression quality: 92 
+[2025-07-08 16:40:03 : INFO] - Backing up the original image - 2025/07/1749379945_bald-stage-1-updraft-pre-smush-original.jpeg 
+[2025-07-08 16:40:14 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/07/1749379945_bald-stage-1.jpeg.The file was compressed from 29.76 KB to 29.06 KB, saving 2.35 percent, using WP-Optimize 
+[2025-07-08 16:40:14 : INFO] - Completed processing task with ID : 2200, and type 'smush' 
+[2025-07-08 16:40:14 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-07-08 16:40:14 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-07-08 16:40:14 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-07-08 16:40:14 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-07-08 17:32:16 : INFO] - Re_Smush_It_Task with attachment ID : 350, autocreated on : July 08, 2025 05:32:15 
+[2025-07-08 17:37:23 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-07-08 17:37:23 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-07-08 17:37:23 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-07-08 17:37:23 : INFO] - Processing task with ID : 2230, and type 'smush' 
+[2025-07-08 17:37:23 : INFO] - Re_Smush_It_Task with attachment ID : 350, autocreated on : July 08, 2025 05:32:15 
+[2025-07-08 17:37:23 : INFO] - File: WhatsApp-Image-2025-07-08-at-10.56.56-PM.jpeg, Compression quality: 92 
+[2025-07-08 17:37:25 : INFO] - Backing up the original image - 2025/07/WhatsApp-Image-2025-07-08-at-10.56.56-PM-updraft-pre-smush-original.jpeg 
+[2025-07-08 17:37:35 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-08-at-10.56.56-PM.jpeg.The file was compressed from 97.36 KB to 91.25 KB, saving 6.27 percent, using WP-Optimize 
+[2025-07-08 17:37:35 : INFO] - Completed processing task with ID : 2230, and type 'smush' 
+[2025-07-08 17:37:35 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-07-08 17:37:35 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-07-08 17:37:35 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-07-08 17:37:35 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-07-09 15:52:56 : INFO] - Re_Smush_It_Task with attachment ID : 355, autocreated on : July 09, 2025 03:52:56 
+[2025-07-09 15:58:34 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-07-09 15:58:34 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-07-09 15:58:34 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-07-09 15:58:34 : INFO] - Processing task with ID : 2281, and type 'smush' 
+[2025-07-09 15:58:34 : INFO] - Re_Smush_It_Task with attachment ID : 355, autocreated on : July 09, 2025 03:52:56 
+[2025-07-09 15:58:34 : INFO] - File: Prescription.jpeg, Compression quality: 92 
+[2025-07-09 15:58:37 : INFO] - Backing up the original image - 2025/07/Prescription-updraft-pre-smush-original.jpeg 
+[2025-07-09 15:58:46 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/07/Prescription.jpeg.The file was compressed from 97.36 KB to 91.25 KB, saving 6.27 percent, using WP-Optimize 
+[2025-07-09 15:58:46 : INFO] - Completed processing task with ID : 2281, and type 'smush' 
+[2025-07-09 15:58:46 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-07-09 15:58:46 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-07-09 15:58:46 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-07-09 15:58:46 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-07-15 16:32:18 : INFO] - Re_Smush_It_Task with attachment ID : 362, autocreated on : July 15, 2025 04:32:18 
+[2025-07-15 16:33:31 : INFO] - Re_Smush_It_Task with attachment ID : 363, autocreated on : July 15, 2025 04:33:31 
+[2025-07-15 16:37:53 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-07-15 16:37:53 : DEBUG] - Lock option (updraft_lock_smush, fzil_options) was created in the database 
+[2025-07-15 16:37:53 : INFO] - Lock (updraft_lock_smush, fzil_options) acquired after initialising the database 
+[2025-07-15 16:37:53 : INFO] - Processing task with ID : 2534, and type 'smush' 
+[2025-07-15 16:37:53 : INFO] - Re_Smush_It_Task with attachment ID : 362, autocreated on : July 15, 2025 04:32:18 
+[2025-07-15 16:37:53 : INFO] - File: Test-28.jpeg, Compression quality: 92 
+[2025-07-15 16:37:57 : INFO] - Backing up the original image - 2025/07/Test-28-updraft-pre-smush-original.jpeg 
+[2025-07-15 16:38:20 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/07/Test-28.jpeg.The file was compressed from 144.69 KB to 143.75 KB, saving 0.65 percent, using WP-Optimize 
+[2025-07-15 16:38:20 : INFO] - Completed processing task with ID : 2534, and type 'smush' 
+[2025-07-15 16:38:20 : INFO] - Processing task with ID : 2535, and type 'smush' 
+[2025-07-15 16:38:20 : INFO] - Re_Smush_It_Task with attachment ID : 363, autocreated on : July 15, 2025 04:33:31 
+[2025-07-15 16:38:20 : INFO] - File: Test-26.jpeg, Compression quality: 92 
+[2025-07-15 16:38:24 : INFO] - Backing up the original image - 2025/07/Test-26-updraft-pre-smush-original.jpeg 
+[2025-07-15 16:38:46 : INFO] - Successfully optimized the image - /home/waai6lqo0xe1/public_html/newapp2025.shrradhasidhwani.com/wp-content/uploads/2025/07/Test-26.jpeg.The file was compressed from 155.47 KB to 154.52 KB, saving 0.61 percent, using WP-Optimize 
+[2025-07-15 16:38:46 : INFO] - Completed processing task with ID : 2535, and type 'smush' 
+[2025-07-15 16:38:46 : INFO] - Lock option (updraft_lock_smush, fzil_options) released 
+[2025-07-15 16:38:46 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-07-15 16:38:46 : INFO] - Lock option (updraft_lock_smush, fzil_options) was deleted from the database 
+[2025-07-15 16:38:46 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-07-15 16:49:47 : INFO] - Re_Smush_It_Task with attachment ID : 364, autocreated on : July 15, 2025 04:49:47 
